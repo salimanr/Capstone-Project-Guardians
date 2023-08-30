@@ -13,4 +13,4 @@ Feature: Retail SignIn Page
 
     Examples: 
       | name         | email                  | password         | confirmpassword  |
-      | Saliman Rahmani | salimancapstone007@gmail.com | Capstone123@ | Capstone123@ |
+      | Saliman Rahmani | salimancapstone099@gmail.com | Capstone123@ | Capstone123@ |

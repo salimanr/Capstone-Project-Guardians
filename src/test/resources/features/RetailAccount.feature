@@ -12,7 +12,7 @@ Feature: Retail Account Page
 
   #@Account2
   Scenario: Verify User can update Profile Information
-    And User update Name 'Saliman' and Phone '6045614011'
+    And User update Name 'Saliman' and Phone '9335614011'
     And User click on Update button
     Then user profile information should be updated
 
@@ -47,7 +47,7 @@ Feature: Retail Account Page
     And User click on Add address option
     And user fill new address form with below information
       | country       | fullName     | phoneNumber | streetAddress    | apt     | city    | state   | zipCode |
-      | United States | Saliman Capstone |  5408410419 | 899 N Orange Ave | Apt 532 | Orlando | Florida |   32807 |
+      | United States | Saliman Capstone |  5408410415 | 899 N Orange Ave | Apt 532 | Orlando | Florida |   32807 |
     And User click Add Your Address button
     Then a message should be displayed ‘Address Added Successfully’
 
@@ -57,7 +57,7 @@ Feature: Retail Account Page
     And User click on edit address option
     And user fill new address form with below information
       | country       | fullName  | phoneNumber | streetAddress    | apt     | city  | state   | zipCode |
-      | United States | Saliman Capstone |  6045614005 | 123 Main | Apt 302 | Miami | Florida |   32777 |
+      | United States | Saliman Capstone |  4445614005 | 123 Main | Apt 302 | Miami | Florida |   32777 |
     And User click update Your Address button
     Then a message should be displayed ‘Address Updated Successfully’
 
