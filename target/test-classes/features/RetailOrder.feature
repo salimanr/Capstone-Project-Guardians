@@ -1,4 +1,4 @@
-@Regression
+@Smoke
 Feature: Retail Order Page
 
   Background: 
@@ -23,28 +23,30 @@ Feature: Retail Order Page
     And User click on Place Your Order
     Then a message should be displayed 'Order Placed, Thanks'
 
-  #@Orderthree
-  Scenario: Verify User can cancel the order
-    And User click on Orders section
-    And User click on first order in list
-    And User click on Cancel The Order button
-    And User select the cancelation Reason ‘Bought wrong item’
-    #And User click on Cancel Order button
-    Then a cancelation message should be displayed ‘Your Order Has Been Cancelled’
+  
 
-  #@Order
+  @Order
   Scenario: Verify User can add an item to cart
     And User change the category to 'Smart Home'
-    And User search for an item 'kasa outdoor smart plug'
+    And User search for an item ' kasa outdoor smart plug'
     And User click on Search icon
     And User click on item
-    And User select quantity
+    And User select quantity '2'
     And User click add to Cart button
-    Then the cart icon quantity should change to ‘5’
+    And the cart icon quantity should change to '2'
     And User click on Cart option
     And User click on Proceed to Checkout button
     And User click on Place Your Order
     Then a message should be displayed 'Order Placed, Thanks'
+    
+    #@Orderthree
+  Scenario: Verify User can cancel the order
+  And User click on Orders section
+    And User click on first order in list
+    And User click on Cancel The Order button
+    And User select the cancelation Reason ‘Bought wrong item’
+    And User click on Cancel Order button
+    Then a cancelation message should be displayed ‘Your Order Has Been Cancelled’
 
   #@Orderfour
   Scenario: Verify User can Return the order

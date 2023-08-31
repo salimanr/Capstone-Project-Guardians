@@ -1887,3 +1887,2034 @@ Item quantity:
 2023-08-29 18:21:20,711 [main] INFO logger_file - User writes Review headline: headline value and Review text: review text
 2023-08-29 18:21:20,972 [main] INFO logger_file - User clicks on the Add your Review button
 2023-08-29 18:21:21,010 [main] INFO logger_file - Your review was added successfully: 
+2023-08-29 19:00:01,107 [main] INFO logger_file - User is on the retail website
+2023-08-29 19:00:01,384 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 19:00:02,937 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 19:00:03,894 [main] INFO logger_file - email was sent successfully
+2023-08-29 19:00:04,154 [main] INFO logger_file - password was sent successfully
+2023-08-29 19:00:04,824 [main] INFO logger_file - User clicks on the login button
+2023-08-29 19:00:05,777 [main] INFO logger_file - user logged in into account
+2023-08-29 19:00:29,651 [main] INFO logger_file - User is on the retail website
+2023-08-29 19:00:30,319 [main] INFO logger_file - user clicked on all Department
+2023-08-29 19:00:31,107 [main] INFO logger_file - User clicked on Electronics sidebar option
+2023-08-29 19:00:31,167 [main] INFO logger_file - Department TV & Video is present
+2023-08-29 19:00:31,238 [main] INFO logger_file - Department Video Games is present
+2023-08-29 19:00:44,888 [main] INFO logger_file - User is on the retail website
+2023-08-29 19:00:45,316 [main] INFO logger_file - user clicked on all Department
+2023-08-29 19:01:00,810 [main] INFO logger_file - User is on the retail website
+2023-08-29 19:01:01,335 [main] INFO logger_file - user clicked on all Department
+2023-08-29 19:01:01,657 [main] INFO logger_file - User clicked on Smart Home sidebar option
+2023-08-29 19:01:01,755 [main] INFO logger_file - Department Smart Home Lightning is present
+2023-08-29 19:01:01,854 [main] INFO logger_file - Department Plugs and Outlets is present
+2023-08-29 19:01:16,701 [main] INFO logger_file - User is on the retail website
+2023-08-29 19:01:17,230 [main] INFO logger_file - user clicked on all Department
+2023-08-29 19:01:17,553 [main] INFO logger_file - User clicked on Sports sidebar option
+2023-08-29 19:01:17,684 [main] INFO logger_file - Department Athletic Clothing is present
+2023-08-29 19:01:17,747 [main] INFO logger_file - Department Exercise & Fitness is present
+2023-08-29 19:01:31,900 [main] INFO logger_file - User is on the retail website
+2023-08-29 19:01:32,461 [main] INFO logger_file - user clicked on all Department
+2023-08-29 19:01:44,977 [main] INFO logger_file - User is on the retail website
+2023-08-29 19:01:45,122 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 19:01:45,614 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 19:01:46,137 [main] INFO logger_file - email was sent successfully
+2023-08-29 19:01:46,341 [main] INFO logger_file - password was sent successfully
+2023-08-29 19:01:47,062 [main] INFO logger_file - User clicks on the login button
+2023-08-29 19:01:49,079 [main] INFO logger_file - user logged in into account
+2023-08-29 19:01:49,512 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 19:01:50,205 [main] INFO logger_file - User updates Name: Saliman and Phone: 9335614011
+2023-08-29 19:01:51,159 [main] INFO logger_file - User clicks on the Update button
+2023-08-29 19:01:51,283 [main] INFO logger_file - User profile information is updated
+2023-08-29 19:02:05,216 [main] INFO logger_file - User is on the retail website
+2023-08-29 19:02:05,432 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 19:02:06,062 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 19:02:06,273 [main] INFO logger_file - email was sent successfully
+2023-08-29 19:02:06,408 [main] INFO logger_file - password was sent successfully
+2023-08-29 19:02:06,728 [main] INFO logger_file - User clicks on the login button
+2023-08-29 19:02:08,396 [main] INFO logger_file - user logged in into account
+2023-08-29 19:02:08,869 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 19:02:09,164 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 19:02:09,514 [main] INFO logger_file - User clicks on 'Add a payment method' link
+2023-08-29 19:02:10,354 [main] INFO logger_file - User fills the card information
+2023-08-29 19:02:10,684 [main] INFO logger_file - User clicks on 'Add your card' button
+2023-08-29 19:02:10,685 [main] INFO logger_file - Successful message displayed
+2023-08-29 19:02:24,371 [main] INFO logger_file - User is on the retail website
+2023-08-29 19:02:24,518 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 19:02:25,106 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 19:02:25,255 [main] INFO logger_file - email was sent successfully
+2023-08-29 19:02:25,338 [main] INFO logger_file - password was sent successfully
+2023-08-29 19:02:25,655 [main] INFO logger_file - User clicks on the login button
+2023-08-29 19:02:26,281 [main] INFO logger_file - user logged in into account
+2023-08-29 19:02:26,780 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 19:02:27,120 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 19:02:28,302 [main] INFO logger_file - User clicks on Edit option of card section
+2023-08-29 19:02:29,036 [main] INFO logger_file - User edits card information
+2023-08-29 19:02:29,332 [main] INFO logger_file - User clicks on Update Your Card button
+2023-08-29 19:02:29,374 [main] INFO logger_file - Payment Method updated Successfully message is displayed
+2023-08-29 19:02:42,363 [main] INFO logger_file - User is on the retail website
+2023-08-29 19:02:42,608 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 19:02:43,239 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 19:02:43,432 [main] INFO logger_file - email was sent successfully
+2023-08-29 19:02:43,535 [main] INFO logger_file - password was sent successfully
+2023-08-29 19:02:43,833 [main] INFO logger_file - User clicks on the login button
+2023-08-29 19:02:44,870 [main] INFO logger_file - user logged in into account
+2023-08-29 19:02:45,470 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 19:02:47,086 [main] INFO logger_file - User clicks on the remove option of card section
+2023-08-29 19:02:47,126 [main] INFO logger_file - Payment details have been removed
+2023-08-29 19:03:01,522 [main] INFO logger_file - User is on the retail website
+2023-08-29 19:03:01,850 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 19:03:02,401 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 19:03:02,648 [main] INFO logger_file - email was sent successfully
+2023-08-29 19:03:02,733 [main] INFO logger_file - password was sent successfully
+2023-08-29 19:03:03,101 [main] INFO logger_file - User clicks on the login button
+2023-08-29 19:03:04,465 [main] INFO logger_file - user logged in into account
+2023-08-29 19:03:05,288 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 19:03:05,707 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 19:03:06,150 [main] INFO logger_file - User clicks on the Add address option
+2023-08-29 19:03:07,473 [main] INFO logger_file - User fills new address form
+2023-08-29 19:03:08,281 [main] INFO logger_file - User clicks on the Add Your Address button
+2023-08-29 19:03:08,965 [main] INFO logger_file - Address Added Successfully message is displayed
+2023-08-29 19:03:22,670 [main] INFO logger_file - User is on the retail website
+2023-08-29 19:03:22,767 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 19:03:23,158 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 19:03:23,532 [main] INFO logger_file - email was sent successfully
+2023-08-29 19:03:23,676 [main] INFO logger_file - password was sent successfully
+2023-08-29 19:03:24,043 [main] INFO logger_file - User clicks on the login button
+2023-08-29 19:03:24,878 [main] INFO logger_file - user logged in into account
+2023-08-29 19:03:25,769 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 19:03:26,050 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 19:03:26,352 [main] INFO logger_file - User clicks on edit address option
+2023-08-29 19:03:27,318 [main] INFO logger_file - User fills new address form
+2023-08-29 19:03:27,733 [main] INFO logger_file - User clicks on update Your Address button
+2023-08-29 19:03:27,784 [main] INFO logger_file - Address Updated Successfully message is displayed
+2023-08-29 19:03:40,690 [main] INFO logger_file - User is on the retail website
+2023-08-29 19:03:40,824 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 19:03:41,266 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 19:03:41,667 [main] INFO logger_file - email was sent successfully
+2023-08-29 19:03:41,801 [main] INFO logger_file - password was sent successfully
+2023-08-29 19:03:42,144 [main] INFO logger_file - User clicks on the login button
+2023-08-29 19:03:43,425 [main] INFO logger_file - user logged in into account
+2023-08-29 19:03:43,910 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 19:03:44,195 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 19:03:44,486 [main] INFO logger_file - User clicks on the remove option of Address section
+2023-08-29 19:03:44,547 [main] INFO logger_file - Address details are removed
+2023-08-29 19:03:58,692 [main] INFO logger_file - User is on the retail website
+2023-08-29 19:03:58,934 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 19:03:59,540 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 19:03:59,827 [main] INFO logger_file - email was sent successfully
+2023-08-29 19:03:59,941 [main] INFO logger_file - password was sent successfully
+2023-08-29 19:04:00,310 [main] INFO logger_file - User clicks on the login button
+2023-08-29 19:04:01,059 [main] INFO logger_file - user logged in into account
+2023-08-29 19:04:01,483 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-29 19:04:01,891 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-08-29 19:04:02,367 [main] INFO logger_file - User clicks on the Search icon
+2023-08-29 19:04:03,140 [main] INFO logger_file - user clicked on item
+2023-08-29 19:04:03,669 [main] INFO logger_file - User selects quantity
+2023-08-29 19:04:03,999 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-29 19:04:04,001 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-29 19:04:04,351 [main] INFO logger_file - User clicks on the Cart option
+2023-08-29 19:04:04,678 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-29 19:04:36,729 [main] INFO logger_file - User is on the retail website
+2023-08-29 19:04:36,901 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 19:04:37,334 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 19:04:37,501 [main] INFO logger_file - email was sent successfully
+2023-08-29 19:04:37,581 [main] INFO logger_file - password was sent successfully
+2023-08-29 19:04:37,862 [main] INFO logger_file - User clicks on the login button
+2023-08-29 19:04:38,502 [main] INFO logger_file - user logged in into account
+2023-08-29 19:04:39,189 [main] INFO logger_file - User clicks on the Orders section
+2023-08-29 19:04:39,443 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-29 19:04:39,789 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-08-29 19:04:40,468 [main] INFO logger_file - User selects the cancellation reason: Bought wrong item
+2023-08-29 19:04:40,576 [main] INFO logger_file - Cancellation message displayed: Are you sure you want to cancel this order?
+Items Ordered
+Total Price $29.98
+2 of Apex Legends - 1,000 Apex Coins - PC Origin [Online Game Code]
+$ 19.98
+3 of Kasa Outdoor Smart Plug, Smart Home Wi-Fi Outlet with 2 Sockets, IP64 Weather Resistance, Compatible with Alexa, Google Home & IFTTT, No Hub Required, ETL Certified(EP40)
+$ 59.97
+Why are you returning this?
+Select Cancelation Reason
+Bought wrong item
+Item damaged
+Cancel Order
+Return to order summmary
+2023-08-29 19:04:52,157 [main] INFO logger_file - User is on the retail website
+2023-08-29 19:04:52,355 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 19:04:52,821 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 19:04:53,003 [main] INFO logger_file - email was sent successfully
+2023-08-29 19:04:53,074 [main] INFO logger_file - password was sent successfully
+2023-08-29 19:04:53,387 [main] INFO logger_file - User clicks on the login button
+2023-08-29 19:04:54,127 [main] INFO logger_file - user logged in into account
+2023-08-29 19:04:54,681 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-29 19:04:54,785 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-08-29 19:04:55,037 [main] INFO logger_file - User clicks on the Search icon
+2023-08-29 19:04:55,537 [main] INFO logger_file - User successfully click on item
+2023-08-29 19:05:29,110 [main] INFO logger_file - User is on the retail website
+2023-08-29 19:05:29,184 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 19:05:30,505 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 19:05:30,726 [main] INFO logger_file - email was sent successfully
+2023-08-29 19:05:30,808 [main] INFO logger_file - password was sent successfully
+2023-08-29 19:05:31,099 [main] INFO logger_file - User clicks on the login button
+2023-08-29 19:05:31,737 [main] INFO logger_file - user logged in into account
+2023-08-29 19:05:32,008 [main] INFO logger_file - User clicks on the Orders section
+2023-08-29 19:05:32,802 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-29 19:05:33,165 [main] INFO logger_file - User clicks on the Return Items button
+2023-08-29 19:05:33,478 [main] INFO logger_file - User selects the Return Reason: Item damaged
+2023-08-29 19:05:33,732 [main] INFO logger_file - User selects the drop off service: FedEx
+2023-08-29 19:05:33,992 [main] INFO logger_file - User clicks on the Return Order button
+2023-08-29 19:05:33,993 [main] INFO logger_file - Return successful message displayed
+2023-08-29 19:05:54,102 [main] INFO logger_file - User is on the retail website
+2023-08-29 19:05:54,360 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 19:05:55,313 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 19:05:55,505 [main] INFO logger_file - email was sent successfully
+2023-08-29 19:05:55,589 [main] INFO logger_file - password was sent successfully
+2023-08-29 19:05:55,888 [main] INFO logger_file - User clicks on the login button
+2023-08-29 19:05:56,647 [main] INFO logger_file - user logged in into account
+2023-08-29 19:05:56,946 [main] INFO logger_file - User clicks on the Orders section
+2023-08-29 19:05:57,223 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-29 19:05:57,505 [main] INFO logger_file - User clicks on the Review button
+2023-08-29 19:05:58,200 [main] INFO logger_file - User writes Review headline: headline value and Review text: review text
+2023-08-29 19:05:58,491 [main] INFO logger_file - User clicks on the Add your Review button
+2023-08-29 19:05:58,505 [main] INFO logger_file - Your review was added successfully: 
+2023-08-29 19:06:13,248 [main] INFO logger_file - User is on the retail website
+2023-08-29 19:06:13,508 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 19:06:14,360 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 19:06:14,825 [main] INFO logger_file - user clicked on create new account option
+2023-08-29 19:06:15,084 [main] INFO logger_file - Saliman Rahmani user name was entered successfully
+2023-08-29 19:06:15,214 [main] INFO logger_file - salimancapstone099@gmail.comemail entered successfully
+2023-08-29 19:06:15,287 [main] INFO logger_file - password entered successfully
+2023-08-29 19:06:15,347 [main] INFO logger_file - Capstone123@ password entered successfully for confirmation
+2023-08-29 19:06:15,612 [main] INFO logger_file - Signup button was clicked succesfully
+2023-08-29 22:28:37,081 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:28:37,485 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:28:38,352 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:28:38,890 [main] INFO logger_file - user clicked on create new account option
+2023-08-29 22:28:39,196 [main] INFO logger_file - Saliman Rahmani user name was entered successfully
+2023-08-29 22:28:39,513 [main] INFO logger_file - salimancapstone099@gmail.comemail entered successfully
+2023-08-29 22:28:39,664 [main] INFO logger_file - password entered successfully
+2023-08-29 22:28:39,785 [main] INFO logger_file - Capstone123@ password entered successfully for confirmation
+2023-08-29 22:28:40,126 [main] INFO logger_file - Signup button was clicked succesfully
+2023-08-29 22:29:42,040 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:29:42,213 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:29:42,775 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:29:43,326 [main] INFO logger_file - user clicked on create new account option
+2023-08-29 22:29:43,610 [main] INFO logger_file - Saliman Rahmani user name was entered successfully
+2023-08-29 22:29:43,880 [main] INFO logger_file - salimancapstone0099@gmail.comemail entered successfully
+2023-08-29 22:29:44,030 [main] INFO logger_file - password entered successfully
+2023-08-29 22:29:44,183 [main] INFO logger_file - Capstone123@ password entered successfully for confirmation
+2023-08-29 22:29:44,520 [main] INFO logger_file - Signup button was clicked succesfully
+2023-08-29 22:31:04,270 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:31:04,495 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:31:05,001 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:31:05,599 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:31:05,834 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:31:06,251 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:31:07,158 [main] INFO logger_file - user logged in into account
+2023-08-29 22:32:19,372 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:32:20,186 [main] INFO logger_file - user clicked on all Department
+2023-08-29 22:32:20,777 [main] INFO logger_file - User clicked on Electronics sidebar option
+2023-08-29 22:32:21,081 [main] INFO logger_file - Department TV & Video is present
+2023-08-29 22:32:21,310 [main] INFO logger_file - Department Video Games is present
+2023-08-29 22:32:36,630 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:32:37,266 [main] INFO logger_file - user clicked on all Department
+2023-08-29 22:32:37,804 [main] INFO logger_file - User clicked on Computers sidebar option
+2023-08-29 22:32:37,870 [main] INFO logger_file - Department Accessories is present
+2023-08-29 22:32:37,963 [main] INFO logger_file - Department Networking is present
+2023-08-29 22:32:52,516 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:32:53,503 [main] INFO logger_file - user clicked on all Department
+2023-08-29 22:32:53,953 [main] INFO logger_file - User clicked on Smart Home sidebar option
+2023-08-29 22:32:54,163 [main] INFO logger_file - Department Smart Home Lightning is present
+2023-08-29 22:32:54,329 [main] INFO logger_file - Department Plugs and Outlets is present
+2023-08-29 22:33:07,949 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:33:08,614 [main] INFO logger_file - user clicked on all Department
+2023-08-29 22:33:09,170 [main] INFO logger_file - User clicked on Sports sidebar option
+2023-08-29 22:33:09,345 [main] INFO logger_file - Department Athletic Clothing is present
+2023-08-29 22:33:09,451 [main] INFO logger_file - Department Exercise & Fitness is present
+2023-08-29 22:33:23,236 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:33:23,822 [main] INFO logger_file - user clicked on all Department
+2023-08-29 22:34:52,804 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:34:53,005 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:34:53,653 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:34:53,997 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:34:54,198 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:34:54,609 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:34:55,456 [main] INFO logger_file - user logged in into account
+2023-08-29 22:34:56,293 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:34:57,339 [main] INFO logger_file - User updates Name: Saliman and Phone: 9335614011
+2023-08-29 22:36:28,032 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:36:28,480 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:36:28,973 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:36:29,477 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:36:29,723 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:36:30,181 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:36:31,042 [main] INFO logger_file - user logged in into account
+2023-08-29 22:36:31,628 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:36:32,667 [main] INFO logger_file - User updates Name: Saliman and Phone: 9335614022
+2023-08-29 22:36:33,041 [main] INFO logger_file - User clicks on the Update button
+2023-08-29 22:36:33,138 [main] INFO logger_file - User profile information is updated
+2023-08-29 22:37:28,435 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:37:28,718 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:37:29,280 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:37:29,872 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:37:30,045 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:37:30,459 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:37:31,459 [main] INFO logger_file - user logged in into account
+2023-08-29 22:37:32,029 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:37:32,464 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:37:32,765 [main] INFO logger_file - User clicks on 'Add a payment method' link
+2023-08-29 22:37:33,668 [main] INFO logger_file - User fills the card information
+2023-08-29 22:37:33,998 [main] INFO logger_file - User clicks on 'Add your card' button
+2023-08-29 22:37:33,999 [main] INFO logger_file - Successful message displayed
+2023-08-29 22:38:29,031 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:38:29,225 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:38:29,930 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:38:30,291 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:38:30,468 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:38:30,921 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:38:31,836 [main] INFO logger_file - user logged in into account
+2023-08-29 22:38:32,509 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:38:32,846 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:38:33,452 [main] INFO logger_file - User clicks on Edit option of card section
+2023-08-29 22:38:34,346 [main] INFO logger_file - User edits card information
+2023-08-29 22:38:34,722 [main] INFO logger_file - User clicks on Update Your Card button
+2023-08-29 22:38:34,723 [main] INFO logger_file - Successful message displayed
+2023-08-29 22:39:25,095 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:39:25,318 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:39:25,833 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:39:26,011 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:39:26,114 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:39:26,477 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:39:27,489 [main] INFO logger_file - user logged in into account
+2023-08-29 22:39:28,083 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:39:28,699 [main] INFO logger_file - User clicks on the remove option of card section
+2023-08-29 22:39:28,731 [main] INFO logger_file - Payment details have been removed
+2023-08-29 22:42:48,269 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:42:48,464 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:42:49,048 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:42:49,248 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:42:49,383 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:42:49,741 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:42:50,546 [main] INFO logger_file - user logged in into account
+2023-08-29 22:42:50,943 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:42:51,213 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:42:51,530 [main] INFO logger_file - User clicks on the Add address option
+2023-08-29 22:42:52,363 [main] INFO logger_file - User fills new address form
+2023-08-29 22:42:52,865 [main] INFO logger_file - User clicks on the Add Your Address button
+2023-08-29 22:42:52,867 [main] INFO logger_file - Successful message displayed
+2023-08-29 22:44:15,806 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:44:16,003 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:44:16,788 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:44:17,166 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:44:17,328 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:44:17,824 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:44:18,578 [main] INFO logger_file - user logged in into account
+2023-08-29 22:44:19,205 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:44:19,564 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:44:19,907 [main] INFO logger_file - User clicks on edit address option
+2023-08-29 22:44:22,028 [main] INFO logger_file - User fills new address form
+2023-08-29 22:44:22,494 [main] INFO logger_file - User clicks on update Your Address button
+2023-08-29 22:44:22,495 [main] INFO logger_file - Successful message displayed
+2023-08-29 22:45:12,578 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:45:12,750 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:45:13,286 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:45:13,722 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:45:13,893 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:45:14,335 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:45:15,152 [main] INFO logger_file - user logged in into account
+2023-08-29 22:45:15,860 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:45:16,326 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:45:16,861 [main] INFO logger_file - User clicks on the remove option of Address section
+2023-08-29 22:45:16,978 [main] INFO logger_file - Address details are removed
+2023-08-29 22:46:28,216 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:46:28,665 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:46:29,424 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:46:29,717 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:46:29,855 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:46:30,308 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:46:31,323 [main] INFO logger_file - user logged in into account
+2023-08-29 22:46:31,725 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-29 22:46:31,872 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-08-29 22:46:32,223 [main] INFO logger_file - User clicks on the Search icon
+2023-08-29 22:46:32,975 [main] INFO logger_file - user clicked on item
+2023-08-29 22:46:33,616 [main] INFO logger_file - User selects quantity
+2023-08-29 22:46:33,970 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-29 22:46:33,971 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-29 22:46:34,404 [main] INFO logger_file - User clicks on the Cart option
+2023-08-29 22:46:34,854 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-29 22:49:07,679 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:49:07,805 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:49:08,201 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:49:08,476 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:49:08,607 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:49:09,035 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:49:09,831 [main] INFO logger_file - user logged in into account
+2023-08-29 22:49:10,191 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-29 22:49:10,311 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-08-29 22:49:10,583 [main] INFO logger_file - User clicks on the Search icon
+2023-08-29 22:49:11,149 [main] INFO logger_file - user clicked on item
+2023-08-29 22:49:11,522 [main] INFO logger_file - User selects quantity
+2023-08-29 22:49:11,833 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-29 22:49:11,835 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-29 22:49:12,120 [main] INFO logger_file - User clicks on the Cart option
+2023-08-29 22:49:12,421 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-29 22:49:12,689 [main] INFO logger_file - User clicks on place your order button
+2023-08-29 22:49:12,691 [main] INFO logger_file - Successful message displayed
+2023-08-29 22:50:41,036 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:50:41,194 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:50:41,688 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:50:41,912 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:50:42,015 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:50:42,380 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:50:43,111 [main] INFO logger_file - user logged in into account
+2023-08-29 22:50:43,411 [main] INFO logger_file - User clicks on the Orders section
+2023-08-29 22:50:44,210 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-29 22:50:44,549 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-08-29 22:50:45,162 [main] INFO logger_file - User selects the cancellation reason: Bought wrong item
+2023-08-29 22:50:45,248 [main] INFO logger_file - Cancellation message displayed: Are you sure you want to cancel this order?
+Items Ordered
+Total Price $9.99
+3 of Apex Legends - 1,000 Apex Coins - PC Origin [Online Game Code]
+$ 29.97
+Why are you returning this?
+Select Cancelation Reason
+Bought wrong item
+Item damaged
+Cancel Order
+Return to order summmary
+2023-08-29 22:51:23,782 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:51:24,136 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:51:24,679 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:51:24,883 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:51:24,995 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:51:25,357 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:51:26,047 [main] INFO logger_file - user logged in into account
+2023-08-29 22:51:26,479 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-29 22:51:26,596 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-08-29 22:51:26,856 [main] INFO logger_file - User clicks on the Search icon
+2023-08-29 22:51:27,449 [main] INFO logger_file - User successfully click on item
+2023-08-29 22:51:27,799 [main] INFO logger_file - User selects quantity
+2023-08-29 22:51:28,134 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-29 22:51:28,143 [main] INFO logger_file - 5was displayed in the cart
+2023-08-29 22:51:28,429 [main] INFO logger_file - User clicks on the Cart option
+2023-08-29 22:51:28,730 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-29 22:51:29,008 [main] INFO logger_file - User clicks on place your order button
+2023-08-29 22:51:29,010 [main] INFO logger_file - Successful message displayed
+2023-08-29 22:52:18,101 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:52:18,308 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:52:18,911 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:52:19,084 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:52:19,188 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:52:19,547 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:52:20,227 [main] INFO logger_file - user logged in into account
+2023-08-29 22:52:20,571 [main] INFO logger_file - User clicks on the Orders section
+2023-08-29 22:52:20,838 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-29 22:52:21,149 [main] INFO logger_file - User clicks on the Return Items button
+2023-08-29 22:52:21,482 [main] INFO logger_file - User selects the Return Reason: Item damaged
+2023-08-29 22:52:21,790 [main] INFO logger_file - User selects the drop off service: FedEx
+2023-08-29 22:52:22,075 [main] INFO logger_file - User clicks on the Return Order button
+2023-08-29 22:52:22,077 [main] INFO logger_file - Return successful message displayed
+2023-08-29 22:53:12,749 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:53:12,897 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:53:13,385 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:53:13,732 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:53:13,843 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:53:14,197 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:53:14,932 [main] INFO logger_file - user logged in into account
+2023-08-29 22:53:15,259 [main] INFO logger_file - User clicks on the Orders section
+2023-08-29 22:53:15,571 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-29 22:53:15,859 [main] INFO logger_file - User clicks on the Review button
+2023-08-29 22:53:16,714 [main] INFO logger_file - User writes Review headline: headline value and Review text: review text
+2023-08-29 22:53:16,991 [main] INFO logger_file - User clicks on the Add your Review button
+2023-08-29 22:53:17,037 [main] INFO logger_file - Your review was added successfully: 
+2023-08-29 22:56:06,539 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:56:06,692 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:56:07,192 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:56:07,395 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:56:07,498 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:56:07,906 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:56:08,649 [main] INFO logger_file - user logged in into account
+2023-08-29 22:56:20,344 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:56:20,755 [main] INFO logger_file - user clicked on all Department
+2023-08-29 22:56:21,068 [main] INFO logger_file - User clicked on Electronics sidebar option
+2023-08-29 22:56:21,200 [main] INFO logger_file - Department TV & Video is present
+2023-08-29 22:56:21,351 [main] INFO logger_file - Department Video Games is present
+2023-08-29 22:56:32,820 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:56:33,333 [main] INFO logger_file - user clicked on all Department
+2023-08-29 22:56:33,791 [main] INFO logger_file - User clicked on Computers sidebar option
+2023-08-29 22:56:33,930 [main] INFO logger_file - Department Accessories is present
+2023-08-29 22:56:34,059 [main] INFO logger_file - Department Networking is present
+2023-08-29 22:56:45,109 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:56:45,614 [main] INFO logger_file - user clicked on all Department
+2023-08-29 22:56:45,924 [main] INFO logger_file - User clicked on Smart Home sidebar option
+2023-08-29 22:56:46,022 [main] INFO logger_file - Department Smart Home Lightning is present
+2023-08-29 22:56:46,210 [main] INFO logger_file - Department Plugs and Outlets is present
+2023-08-29 22:56:56,382 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:56:56,835 [main] INFO logger_file - user clicked on all Department
+2023-08-29 22:57:07,699 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:57:08,252 [main] INFO logger_file - user clicked on all Department
+2023-08-29 22:57:20,308 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:57:20,475 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:57:20,853 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:57:21,055 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:57:21,151 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:57:21,528 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:57:22,376 [main] INFO logger_file - user logged in into account
+2023-08-29 22:57:22,813 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:57:23,540 [main] INFO logger_file - User updates Name: Saliman and Phone: 9335614023
+2023-08-29 22:57:26,066 [main] INFO logger_file - User clicks on the Update button
+2023-08-29 22:57:26,100 [main] INFO logger_file - User profile information is updated
+2023-08-29 22:57:42,723 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:57:42,958 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:57:43,345 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:57:43,674 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:57:43,790 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:57:44,205 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:57:44,928 [main] INFO logger_file - user logged in into account
+2023-08-29 22:57:45,328 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:57:45,665 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:57:45,965 [main] INFO logger_file - User clicks on 'Add a payment method' link
+2023-08-29 22:57:46,514 [main] INFO logger_file - User fills the card information
+2023-08-29 22:57:46,858 [main] INFO logger_file - User clicks on 'Add your card' button
+2023-08-29 22:57:46,858 [main] INFO logger_file - Successful message displayed
+2023-08-29 22:58:00,903 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:58:01,167 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:58:01,530 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:58:01,743 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:58:01,875 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:58:02,205 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:58:03,003 [main] INFO logger_file - user logged in into account
+2023-08-29 22:58:03,390 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:58:03,678 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:58:04,227 [main] INFO logger_file - User clicks on Edit option of card section
+2023-08-29 22:58:04,822 [main] INFO logger_file - User edits card information
+2023-08-29 22:58:05,089 [main] INFO logger_file - User clicks on Update Your Card button
+2023-08-29 22:58:05,089 [main] INFO logger_file - Successful message displayed
+2023-08-29 22:58:17,019 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:58:17,270 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:58:17,670 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:58:17,884 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:58:17,985 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:58:18,276 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:58:19,438 [main] INFO logger_file - user logged in into account
+2023-08-29 22:58:20,061 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:58:20,646 [main] INFO logger_file - User clicks on the remove option of card section
+2023-08-29 22:58:20,686 [main] INFO logger_file - Payment details have been removed
+2023-08-29 22:58:33,250 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:58:33,527 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:58:33,942 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:58:34,108 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:58:34,188 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:58:34,543 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:58:35,399 [main] INFO logger_file - user logged in into account
+2023-08-29 22:58:35,852 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:58:36,106 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:58:36,370 [main] INFO logger_file - User clicks on 'Add a payment method' link
+2023-08-29 22:58:36,949 [main] INFO logger_file - User fills the card information
+2023-08-29 22:58:37,273 [main] INFO logger_file - User clicks on 'Add your card' button
+2023-08-29 22:58:37,279 [main] INFO logger_file - Successful message displayed
+2023-08-29 22:58:48,956 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:58:49,047 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:58:49,412 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:58:49,596 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:58:49,715 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:58:50,062 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:58:50,713 [main] INFO logger_file - user logged in into account
+2023-08-29 22:58:51,076 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:58:51,400 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:58:51,769 [main] INFO logger_file - User clicks on the Add address option
+2023-08-29 22:58:52,503 [main] INFO logger_file - User fills new address form
+2023-08-29 22:58:52,956 [main] INFO logger_file - User clicks on the Add Your Address button
+2023-08-29 22:58:52,957 [main] INFO logger_file - Successful message displayed
+2023-08-29 22:59:04,527 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:59:04,713 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:59:05,165 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:59:05,348 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:59:05,434 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:59:05,730 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:59:06,560 [main] INFO logger_file - user logged in into account
+2023-08-29 22:59:06,990 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:59:07,301 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:59:07,626 [main] INFO logger_file - User clicks on edit address option
+2023-08-29 22:59:08,679 [main] INFO logger_file - User fills new address form
+2023-08-29 22:59:09,053 [main] INFO logger_file - User clicks on update Your Address button
+2023-08-29 22:59:09,054 [main] INFO logger_file - Successful message displayed
+2023-08-29 22:59:19,402 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:59:19,729 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:59:20,184 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:59:20,405 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:59:20,562 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:59:20,929 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:59:21,556 [main] INFO logger_file - user logged in into account
+2023-08-29 22:59:22,001 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:59:22,334 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 22:59:22,646 [main] INFO logger_file - User clicks on the remove option of Address section
+2023-08-29 22:59:22,713 [main] INFO logger_file - Address details are removed
+2023-08-29 22:59:33,574 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:59:33,802 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:59:34,193 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:59:34,365 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:59:34,497 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:59:34,810 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:59:35,643 [main] INFO logger_file - user logged in into account
+2023-08-29 22:59:36,012 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-29 22:59:36,151 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-08-29 22:59:36,432 [main] INFO logger_file - User clicks on the Search icon
+2023-08-29 22:59:37,055 [main] INFO logger_file - user clicked on item
+2023-08-29 22:59:37,392 [main] INFO logger_file - User selects quantity
+2023-08-29 22:59:37,720 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-29 22:59:37,726 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-29 22:59:37,991 [main] INFO logger_file - User clicks on the Cart option
+2023-08-29 22:59:38,293 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-29 22:59:38,552 [main] INFO logger_file - User clicks on place your order button
+2023-08-29 22:59:38,552 [main] INFO logger_file - Successful message displayed
+2023-08-29 22:59:51,130 [main] INFO logger_file - User is on the retail website
+2023-08-29 22:59:51,291 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 22:59:51,763 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 22:59:51,969 [main] INFO logger_file - email was sent successfully
+2023-08-29 22:59:52,056 [main] INFO logger_file - password was sent successfully
+2023-08-29 22:59:52,368 [main] INFO logger_file - User clicks on the login button
+2023-08-29 22:59:53,096 [main] INFO logger_file - user logged in into account
+2023-08-29 22:59:53,727 [main] INFO logger_file - User clicks on the Orders section
+2023-08-29 22:59:53,979 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-29 22:59:54,279 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-08-29 22:59:54,841 [main] INFO logger_file - User selects the cancellation reason: Bought wrong item
+2023-08-29 22:59:54,890 [main] INFO logger_file - Cancellation message displayed: Your Order Has Been Cancelled
+Payment refunded to cart ending with ...8554
+Order Summary
+Item total:
+$ 9.99
+Item quantity:
+1
+2023-08-29 23:00:07,787 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:00:08,338 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:00:08,737 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:00:09,069 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:00:09,228 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:00:09,568 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:00:10,232 [main] INFO logger_file - user logged in into account
+2023-08-29 23:00:10,530 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-29 23:00:10,627 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-08-29 23:00:10,882 [main] INFO logger_file - User clicks on the Search icon
+2023-08-29 23:00:11,426 [main] INFO logger_file - User successfully click on item
+2023-08-29 23:00:43,258 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:00:43,391 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:00:43,758 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:00:43,974 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:00:44,154 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:00:44,825 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:00:45,506 [main] INFO logger_file - user logged in into account
+2023-08-29 23:00:45,841 [main] INFO logger_file - User clicks on the Orders section
+2023-08-29 23:00:46,091 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-29 23:01:15,678 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:01:15,812 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:01:16,366 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:01:16,591 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:01:16,699 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:01:17,030 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:01:17,688 [main] INFO logger_file - user logged in into account
+2023-08-29 23:01:18,039 [main] INFO logger_file - User clicks on the Orders section
+2023-08-29 23:01:18,299 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-29 23:01:18,588 [main] INFO logger_file - User clicks on the Review button
+2023-08-29 23:01:19,060 [main] INFO logger_file - User writes Review headline: headline value and Review text: review text
+2023-08-29 23:01:19,319 [main] INFO logger_file - User clicks on the Add your Review button
+2023-08-29 23:01:19,362 [main] INFO logger_file - Your review was added successfully: 
+2023-08-29 23:01:30,189 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:01:30,274 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:01:30,648 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:01:31,112 [main] INFO logger_file - user clicked on create new account option
+2023-08-29 23:01:31,323 [main] INFO logger_file - Saliman Rahmani user name was entered successfully
+2023-08-29 23:01:31,555 [main] INFO logger_file - salimancapstone0089@gmail.comemail entered successfully
+2023-08-29 23:01:31,633 [main] INFO logger_file - password entered successfully
+2023-08-29 23:01:31,733 [main] INFO logger_file - Capstone123@ password entered successfully for confirmation
+2023-08-29 23:01:32,018 [main] INFO logger_file - Signup button was clicked succesfully
+2023-08-29 23:12:51,331 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:12:51,617 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:12:52,140 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:12:52,337 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:12:52,430 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:12:52,784 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:12:53,461 [main] INFO logger_file - user logged in into account
+2023-08-29 23:13:05,444 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:13:05,806 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:13:19,913 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:13:20,325 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:13:20,653 [main] INFO logger_file - User clicked on Computers sidebar option
+2023-08-29 23:13:20,861 [main] INFO logger_file - Department Accessories is present
+2023-08-29 23:13:21,025 [main] INFO logger_file - Department Networking is present
+2023-08-29 23:13:31,665 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:13:32,174 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:13:32,483 [main] INFO logger_file - User clicked on Smart Home sidebar option
+2023-08-29 23:13:32,555 [main] INFO logger_file - Department Smart Home Lightning is present
+2023-08-29 23:13:32,745 [main] INFO logger_file - Department Plugs and Outlets is present
+2023-08-29 23:13:44,907 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:13:45,348 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:13:45,818 [main] INFO logger_file - User clicked on Sports sidebar option
+2023-08-29 23:13:45,928 [main] INFO logger_file - Department Athletic Clothing is present
+2023-08-29 23:13:45,979 [main] INFO logger_file - Department Exercise & Fitness is present
+2023-08-29 23:13:56,228 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:13:57,187 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:14:17,641 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:14:18,114 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:14:19,061 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:14:19,328 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:14:19,478 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:14:19,889 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:14:20,944 [main] INFO logger_file - user logged in into account
+2023-08-29 23:14:21,474 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:14:22,438 [main] INFO logger_file - User updates Name: Saliman and Phone: 9335614023
+2023-08-29 23:14:56,581 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:14:57,086 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:14:58,316 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:14:58,802 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:14:58,927 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:14:59,328 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:15:00,218 [main] INFO logger_file - user logged in into account
+2023-08-29 23:15:00,818 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:15:01,294 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:15:01,597 [main] INFO logger_file - User clicks on 'Add a payment method' link
+2023-08-29 23:15:02,498 [main] INFO logger_file - User fills the card information
+2023-08-29 23:15:02,894 [main] INFO logger_file - User clicks on 'Add your card' button
+2023-08-29 23:15:02,896 [main] INFO logger_file - Successful message displayed
+2023-08-29 23:18:20,143 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:18:21,837 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:18:22,165 [main] INFO logger_file - User clicked on Electronics sidebar option
+2023-08-29 23:18:22,236 [main] INFO logger_file - Department TV & Video is present
+2023-08-29 23:18:22,398 [main] INFO logger_file - Department Video Games is present
+2023-08-29 23:20:11,374 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:20:11,542 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:20:14,265 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:20:20,141 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:20:20,316 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:20:21,962 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:20:22,986 [main] INFO logger_file - user logged in into account
+2023-08-29 23:20:37,777 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:20:38,198 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:20:51,716 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:20:52,312 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:20:52,743 [main] INFO logger_file - User clicked on Computers sidebar option
+2023-08-29 23:20:52,906 [main] INFO logger_file - Department Accessories is present
+2023-08-29 23:20:53,017 [main] INFO logger_file - Department Networking is present
+2023-08-29 23:21:04,069 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:21:04,619 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:21:04,959 [main] INFO logger_file - User clicked on Smart Home sidebar option
+2023-08-29 23:21:05,037 [main] INFO logger_file - Department Smart Home Lightning is present
+2023-08-29 23:21:05,133 [main] INFO logger_file - Department Plugs and Outlets is present
+2023-08-29 23:21:16,945 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:21:17,543 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:21:17,964 [main] INFO logger_file - User clicked on Sports sidebar option
+2023-08-29 23:21:18,118 [main] INFO logger_file - Department Athletic Clothing is present
+2023-08-29 23:21:18,182 [main] INFO logger_file - Department Exercise & Fitness is present
+2023-08-29 23:21:32,180 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:21:32,627 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:21:44,829 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:21:45,001 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:21:45,399 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:21:45,817 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:21:45,941 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:21:46,311 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:21:46,941 [main] INFO logger_file - user logged in into account
+2023-08-29 23:21:47,429 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:21:47,927 [main] INFO logger_file - User updates Name: Saliman and Phone: 9335614000
+2023-08-29 23:21:48,240 [main] INFO logger_file - User clicks on the Update button
+2023-08-29 23:21:48,284 [main] INFO logger_file - User profile information is updated
+2023-08-29 23:21:59,260 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:21:59,404 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:21:59,771 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:22:00,003 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:22:00,146 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:22:00,501 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:22:01,232 [main] INFO logger_file - user logged in into account
+2023-08-29 23:22:01,673 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:22:01,968 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:22:02,343 [main] INFO logger_file - User clicks on 'Add a payment method' link
+2023-08-29 23:22:02,897 [main] INFO logger_file - User fills the card information
+2023-08-29 23:22:03,181 [main] INFO logger_file - User clicks on 'Add your card' button
+2023-08-29 23:22:03,182 [main] INFO logger_file - Successful message displayed
+2023-08-29 23:22:15,822 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:22:15,968 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:22:16,463 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:22:16,748 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:22:16,866 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:22:17,174 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:22:18,221 [main] INFO logger_file - user logged in into account
+2023-08-29 23:22:18,610 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:22:18,947 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:22:19,501 [main] INFO logger_file - User clicks on Edit option of card section
+2023-08-29 23:22:20,047 [main] INFO logger_file - User edits card information
+2023-08-29 23:22:20,330 [main] INFO logger_file - User clicks on Update Your Card button
+2023-08-29 23:22:20,332 [main] INFO logger_file - Successful message displayed
+2023-08-29 23:22:30,436 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:22:30,743 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:22:31,151 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:22:31,316 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:22:31,414 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:22:31,715 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:22:32,639 [main] INFO logger_file - user logged in into account
+2023-08-29 23:22:33,407 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:22:33,977 [main] INFO logger_file - User clicks on the remove option of card section
+2023-08-29 23:22:34,004 [main] INFO logger_file - Payment details have been removed
+2023-08-29 23:22:44,807 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:22:44,910 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:22:45,301 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:22:45,483 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:22:45,576 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:22:45,912 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:22:46,553 [main] INFO logger_file - user logged in into account
+2023-08-29 23:22:47,375 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:22:47,659 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:22:47,923 [main] INFO logger_file - User clicks on 'Add a payment method' link
+2023-08-29 23:22:48,547 [main] INFO logger_file - User fills the card information
+2023-08-29 23:22:48,852 [main] INFO logger_file - User clicks on 'Add your card' button
+2023-08-29 23:22:48,853 [main] INFO logger_file - Successful message displayed
+2023-08-29 23:22:58,997 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:22:59,161 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:22:59,608 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:22:59,831 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:22:59,974 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:23:00,302 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:23:00,988 [main] INFO logger_file - user logged in into account
+2023-08-29 23:23:01,383 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:23:01,703 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:23:02,010 [main] INFO logger_file - User clicks on the Add address option
+2023-08-29 23:23:02,766 [main] INFO logger_file - User fills new address form
+2023-08-29 23:23:03,227 [main] INFO logger_file - User clicks on the Add Your Address button
+2023-08-29 23:23:03,228 [main] INFO logger_file - Successful message displayed
+2023-08-29 23:23:13,385 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:23:13,665 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:23:14,151 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:23:14,320 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:23:14,437 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:23:14,746 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:23:15,402 [main] INFO logger_file - user logged in into account
+2023-08-29 23:23:15,841 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:23:16,159 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:23:16,437 [main] INFO logger_file - User clicks on edit address option
+2023-08-29 23:23:17,480 [main] INFO logger_file - User fills new address form
+2023-08-29 23:23:17,868 [main] INFO logger_file - User clicks on update Your Address button
+2023-08-29 23:23:17,870 [main] INFO logger_file - Successful message displayed
+2023-08-29 23:23:28,109 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:23:28,276 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:23:28,813 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:23:29,015 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:23:29,179 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:23:29,590 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:23:30,216 [main] INFO logger_file - user logged in into account
+2023-08-29 23:23:30,575 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:23:30,833 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:23:31,089 [main] INFO logger_file - User clicks on the remove option of Address section
+2023-08-29 23:23:31,150 [main] INFO logger_file - Address details are removed
+2023-08-29 23:23:41,423 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:23:41,804 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:23:42,240 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:23:42,458 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:23:42,619 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:23:42,940 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:23:43,626 [main] INFO logger_file - user logged in into account
+2023-08-29 23:23:44,026 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-29 23:23:44,124 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-08-29 23:23:44,379 [main] INFO logger_file - User clicks on the Search icon
+2023-08-29 23:23:44,931 [main] INFO logger_file - user clicked on item
+2023-08-29 23:23:45,302 [main] INFO logger_file - User selects quantity
+2023-08-29 23:23:45,631 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-29 23:23:45,635 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-29 23:23:45,925 [main] INFO logger_file - User clicks on the Cart option
+2023-08-29 23:23:46,235 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-29 23:23:46,493 [main] INFO logger_file - User clicks on place your order button
+2023-08-29 23:23:46,494 [main] INFO logger_file - Successful message displayed
+2023-08-29 23:23:57,961 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:23:58,125 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:23:58,517 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:23:58,706 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:23:58,847 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:23:59,235 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:23:59,877 [main] INFO logger_file - user logged in into account
+2023-08-29 23:24:00,213 [main] INFO logger_file - User clicks on the Orders section
+2023-08-29 23:24:00,520 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-29 23:24:00,814 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-08-29 23:24:01,369 [main] INFO logger_file - User selects the cancellation reason: Bought wrong item
+2023-08-29 23:24:13,041 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:24:13,168 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:24:13,706 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:24:13,913 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:24:14,022 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:24:14,357 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:24:14,983 [main] INFO logger_file - user logged in into account
+2023-08-29 23:24:15,348 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-29 23:24:15,463 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-08-29 23:24:15,715 [main] INFO logger_file - User clicks on the Search icon
+2023-08-29 23:24:16,355 [main] INFO logger_file - User successfully click on item
+2023-08-29 23:24:16,764 [main] INFO logger_file - User selects quantity
+2023-08-29 23:24:17,035 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-29 23:24:17,037 [main] INFO logger_file - 5was displayed in the cart
+2023-08-29 23:24:17,340 [main] INFO logger_file - User clicks on the Cart option
+2023-08-29 23:24:17,626 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-29 23:24:17,901 [main] INFO logger_file - User clicks on place your order button
+2023-08-29 23:24:17,905 [main] INFO logger_file - Successful message displayed
+2023-08-29 23:24:27,972 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:24:28,082 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:24:28,596 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:24:28,895 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:24:28,994 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:24:29,357 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:24:29,972 [main] INFO logger_file - user logged in into account
+2023-08-29 23:24:30,300 [main] INFO logger_file - User clicks on the Orders section
+2023-08-29 23:24:30,720 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-29 23:24:31,002 [main] INFO logger_file - User clicks on the Return Items button
+2023-08-29 23:24:31,303 [main] INFO logger_file - User selects the Return Reason: Item damaged
+2023-08-29 23:24:31,560 [main] INFO logger_file - User selects the drop off service: FedEx
+2023-08-29 23:24:31,817 [main] INFO logger_file - User clicks on the Return Order button
+2023-08-29 23:24:31,821 [main] INFO logger_file - Return successful message displayed
+2023-08-29 23:24:42,068 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:24:42,523 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:24:42,915 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:24:43,128 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:24:43,239 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:24:43,566 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:24:44,195 [main] INFO logger_file - user logged in into account
+2023-08-29 23:24:44,522 [main] INFO logger_file - User clicks on the Orders section
+2023-08-29 23:24:44,914 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-29 23:24:45,213 [main] INFO logger_file - User clicks on the Review button
+2023-08-29 23:24:45,563 [main] INFO logger_file - User writes Review headline: headline value and Review text: review text
+2023-08-29 23:24:45,951 [main] INFO logger_file - User clicks on the Add your Review button
+2023-08-29 23:24:45,967 [main] INFO logger_file - Your review was added successfully: 
+2023-08-29 23:24:55,868 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:24:56,000 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:24:56,424 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:24:56,773 [main] INFO logger_file - user clicked on create new account option
+2023-08-29 23:24:56,986 [main] INFO logger_file - Saliman Rahmani user name was entered successfully
+2023-08-29 23:24:57,136 [main] INFO logger_file - salimancapstone0079@gmail.comemail entered successfully
+2023-08-29 23:24:57,224 [main] INFO logger_file - password entered successfully
+2023-08-29 23:24:57,298 [main] INFO logger_file - Capstone123@ password entered successfully for confirmation
+2023-08-29 23:24:57,606 [main] INFO logger_file - Signup button was clicked succesfully
+2023-08-29 23:45:19,736 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:45:19,988 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:45:20,580 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:45:20,820 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:45:20,936 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:45:21,359 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:45:22,134 [main] INFO logger_file - user logged in into account
+2023-08-29 23:45:32,721 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:45:33,187 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:45:33,499 [main] INFO logger_file - User clicked on Electronics sidebar option
+2023-08-29 23:45:33,624 [main] INFO logger_file - Department TV & Video is present
+2023-08-29 23:45:33,888 [main] INFO logger_file - Department Video Games is present
+2023-08-29 23:45:44,805 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:45:45,573 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:45:45,946 [main] INFO logger_file - User clicked on Computers sidebar option
+2023-08-29 23:45:46,045 [main] INFO logger_file - Department Accessories is present
+2023-08-29 23:45:46,260 [main] INFO logger_file - Department Networking is present
+2023-08-29 23:45:57,705 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:45:58,215 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:45:58,648 [main] INFO logger_file - User clicked on Smart Home sidebar option
+2023-08-29 23:45:58,699 [main] INFO logger_file - Department Smart Home Lightning is present
+2023-08-29 23:45:58,785 [main] INFO logger_file - Department Plugs and Outlets is present
+2023-08-29 23:46:09,972 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:46:10,523 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:46:10,875 [main] INFO logger_file - User clicked on Sports sidebar option
+2023-08-29 23:46:10,946 [main] INFO logger_file - Department Athletic Clothing is present
+2023-08-29 23:46:11,000 [main] INFO logger_file - Department Exercise & Fitness is present
+2023-08-29 23:46:22,488 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:46:23,118 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:46:35,767 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:46:35,974 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:46:36,594 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:46:36,793 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:46:36,910 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:46:37,314 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:46:38,011 [main] INFO logger_file - user logged in into account
+2023-08-29 23:46:38,429 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:46:38,844 [main] INFO logger_file - User updates Name: Saliman and Phone: 9335614000
+2023-08-29 23:48:52,727 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:48:52,873 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:48:53,383 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:48:53,589 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:48:53,706 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:48:54,063 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:48:54,900 [main] INFO logger_file - user logged in into account
+2023-08-29 23:49:05,115 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:49:05,744 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:49:06,081 [main] INFO logger_file - User clicked on Electronics sidebar option
+2023-08-29 23:49:06,160 [main] INFO logger_file - Department TV & Video is present
+2023-08-29 23:49:06,329 [main] INFO logger_file - Department Video Games is present
+2023-08-29 23:49:17,861 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:49:18,275 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:49:18,663 [main] INFO logger_file - User clicked on Computers sidebar option
+2023-08-29 23:49:18,744 [main] INFO logger_file - Department Accessories is present
+2023-08-29 23:49:18,835 [main] INFO logger_file - Department Networking is present
+2023-08-29 23:49:29,924 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:49:30,417 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:49:30,746 [main] INFO logger_file - User clicked on Smart Home sidebar option
+2023-08-29 23:49:30,818 [main] INFO logger_file - Department Smart Home Lightning is present
+2023-08-29 23:49:31,086 [main] INFO logger_file - Department Plugs and Outlets is present
+2023-08-29 23:49:42,555 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:49:42,977 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:49:43,396 [main] INFO logger_file - User clicked on Sports sidebar option
+2023-08-29 23:49:43,515 [main] INFO logger_file - Department Athletic Clothing is present
+2023-08-29 23:49:43,603 [main] INFO logger_file - Department Exercise & Fitness is present
+2023-08-29 23:49:53,993 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:49:54,480 [main] INFO logger_file - user clicked on all Department
+2023-08-29 23:50:07,557 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:50:07,930 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:50:08,544 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:50:08,910 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:50:09,091 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:50:09,512 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:50:10,155 [main] INFO logger_file - user logged in into account
+2023-08-29 23:50:10,581 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:50:11,080 [main] INFO logger_file - User updates Name: Saliman and Phone: 9135614001
+2023-08-29 23:50:11,358 [main] INFO logger_file - User clicks on the Update button
+2023-08-29 23:50:11,416 [main] INFO logger_file - User profile information is updated
+2023-08-29 23:50:23,606 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:50:23,752 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:50:24,140 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:50:24,344 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:50:24,479 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:50:24,879 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:50:25,534 [main] INFO logger_file - user logged in into account
+2023-08-29 23:50:26,001 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:50:26,275 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:50:26,562 [main] INFO logger_file - User clicks on 'Add a payment method' link
+2023-08-29 23:50:27,108 [main] INFO logger_file - User fills the card information
+2023-08-29 23:50:27,425 [main] INFO logger_file - User clicks on 'Add your card' button
+2023-08-29 23:50:27,426 [main] INFO logger_file - Successful message displayed
+2023-08-29 23:50:37,679 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:50:37,947 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:50:38,364 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:50:38,545 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:50:38,642 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:50:38,966 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:50:39,816 [main] INFO logger_file - user logged in into account
+2023-08-29 23:50:40,295 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:50:40,593 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:50:41,156 [main] INFO logger_file - User clicks on Edit option of card section
+2023-08-29 23:50:41,716 [main] INFO logger_file - User edits card information
+2023-08-29 23:50:41,988 [main] INFO logger_file - User clicks on Update Your Card button
+2023-08-29 23:50:41,991 [main] INFO logger_file - Successful message displayed
+2023-08-29 23:50:51,768 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:50:52,003 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:50:52,482 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:50:52,666 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:50:52,832 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:50:53,214 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:50:53,834 [main] INFO logger_file - user logged in into account
+2023-08-29 23:50:54,363 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:50:54,972 [main] INFO logger_file - User clicks on the remove option of card section
+2023-08-29 23:50:55,001 [main] INFO logger_file - Payment details have been removed
+2023-08-29 23:51:05,000 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:51:05,461 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:51:05,865 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:51:06,078 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:51:06,177 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:51:06,495 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:51:07,297 [main] INFO logger_file - user logged in into account
+2023-08-29 23:51:07,840 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:51:08,319 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:51:08,582 [main] INFO logger_file - User clicks on 'Add a payment method' link
+2023-08-29 23:51:09,086 [main] INFO logger_file - User fills the card information
+2023-08-29 23:51:09,387 [main] INFO logger_file - User clicks on 'Add your card' button
+2023-08-29 23:51:09,389 [main] INFO logger_file - Successful message displayed
+2023-08-29 23:51:19,704 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:51:19,790 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:51:20,182 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:51:20,397 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:51:20,556 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:51:20,875 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:51:21,502 [main] INFO logger_file - user logged in into account
+2023-08-29 23:51:21,912 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:51:22,179 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:51:22,503 [main] INFO logger_file - User clicks on the Add address option
+2023-08-29 23:51:23,258 [main] INFO logger_file - User fills new address form
+2023-08-29 23:51:23,615 [main] INFO logger_file - User clicks on the Add Your Address button
+2023-08-29 23:51:23,628 [main] INFO logger_file - Successful message displayed
+2023-08-29 23:51:33,436 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:51:33,561 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:51:33,999 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:51:34,202 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:51:34,329 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:51:34,677 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:51:35,298 [main] INFO logger_file - user logged in into account
+2023-08-29 23:51:35,675 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:51:35,950 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:51:36,247 [main] INFO logger_file - User clicks on edit address option
+2023-08-29 23:51:37,300 [main] INFO logger_file - User fills new address form
+2023-08-29 23:51:37,665 [main] INFO logger_file - User clicks on update Your Address button
+2023-08-29 23:51:37,666 [main] INFO logger_file - Successful message displayed
+2023-08-29 23:51:47,882 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:51:48,030 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:51:48,581 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:51:48,751 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:51:48,865 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:51:49,183 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:51:50,095 [main] INFO logger_file - user logged in into account
+2023-08-29 23:51:50,574 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:51:50,959 [main] INFO logger_file - User clicks on the Account option
+2023-08-29 23:51:51,224 [main] INFO logger_file - User clicks on the remove option of Address section
+2023-08-29 23:51:51,276 [main] INFO logger_file - Address details are removed
+2023-08-29 23:52:02,059 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:52:02,318 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:52:02,728 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:52:02,949 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:52:03,075 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:52:03,402 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:52:04,032 [main] INFO logger_file - user logged in into account
+2023-08-29 23:52:04,492 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-29 23:52:04,650 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-08-29 23:52:04,967 [main] INFO logger_file - User clicks on the Search icon
+2023-08-29 23:52:05,533 [main] INFO logger_file - user clicked on item
+2023-08-29 23:52:06,356 [main] INFO logger_file - User selects quantity
+2023-08-29 23:52:06,634 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-29 23:52:06,634 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-29 23:52:06,939 [main] INFO logger_file - User clicks on the Cart option
+2023-08-29 23:52:07,209 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-29 23:52:07,479 [main] INFO logger_file - User clicks on place your order button
+2023-08-29 23:52:07,480 [main] INFO logger_file - Successful message displayed
+2023-08-29 23:52:17,580 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:52:17,746 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:52:18,102 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:52:18,254 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:52:18,348 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:52:18,650 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:52:19,517 [main] INFO logger_file - user logged in into account
+2023-08-29 23:52:20,075 [main] INFO logger_file - User clicks on the Orders section
+2023-08-29 23:52:20,333 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-29 23:52:20,637 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-08-29 23:52:31,045 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:52:31,200 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:52:31,660 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:52:31,859 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:52:31,988 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:52:32,351 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:52:33,014 [main] INFO logger_file - user logged in into account
+2023-08-29 23:52:33,327 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-29 23:52:33,432 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-08-29 23:52:33,690 [main] INFO logger_file - User clicks on the Search icon
+2023-08-29 23:52:34,234 [main] INFO logger_file - User successfully click on item
+2023-08-29 23:52:34,661 [main] INFO logger_file - User selects quantity
+2023-08-29 23:52:34,964 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-29 23:52:34,965 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-29 23:52:35,260 [main] INFO logger_file - User clicks on the Cart option
+2023-08-29 23:52:35,562 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-29 23:52:35,819 [main] INFO logger_file - User clicks on place your order button
+2023-08-29 23:52:35,821 [main] INFO logger_file - Successful message displayed
+2023-08-29 23:52:46,042 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:52:46,211 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:52:46,628 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:52:46,860 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:52:46,980 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:52:47,468 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:52:48,078 [main] INFO logger_file - user logged in into account
+2023-08-29 23:52:48,416 [main] INFO logger_file - User clicks on the Orders section
+2023-08-29 23:52:48,726 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-29 23:52:49,028 [main] INFO logger_file - User clicks on the Return Items button
+2023-08-29 23:52:58,641 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:52:58,942 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:52:59,419 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:52:59,611 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:52:59,702 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:53:00,018 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:53:00,654 [main] INFO logger_file - user logged in into account
+2023-08-29 23:53:00,956 [main] INFO logger_file - User clicks on the Orders section
+2023-08-29 23:53:01,230 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-29 23:53:01,495 [main] INFO logger_file - User clicks on the Review button
+2023-08-29 23:53:12,075 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:53:12,268 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:53:12,687 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:53:13,120 [main] INFO logger_file - user clicked on create new account option
+2023-08-29 23:53:13,310 [main] INFO logger_file - Saliman Rahmani user name was entered successfully
+2023-08-29 23:53:13,470 [main] INFO logger_file - salimancapstone0069@gmail.comemail entered successfully
+2023-08-29 23:53:13,553 [main] INFO logger_file - password entered successfully
+2023-08-29 23:53:13,629 [main] INFO logger_file - Capstone123@ password entered successfully for confirmation
+2023-08-29 23:53:13,928 [main] INFO logger_file - Signup button was clicked succesfully
+2023-08-29 23:55:59,046 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:55:59,186 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:55:59,634 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:55:59,868 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:55:59,999 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:56:00,345 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:56:01,080 [main] INFO logger_file - user logged in into account
+2023-08-29 23:56:01,420 [main] INFO logger_file - User clicks on the Orders section
+2023-08-29 23:56:01,698 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-29 23:56:01,986 [main] INFO logger_file - User clicks on the Review button
+2023-08-29 23:57:15,243 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:57:15,447 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:57:15,906 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:57:16,081 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:57:16,194 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:57:16,567 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:57:17,501 [main] INFO logger_file - user logged in into account
+2023-08-29 23:57:17,949 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-29 23:57:18,073 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-08-29 23:57:18,359 [main] INFO logger_file - User clicks on the Search icon
+2023-08-29 23:57:18,946 [main] INFO logger_file - User successfully click on item
+2023-08-29 23:57:19,328 [main] INFO logger_file - User selects quantity
+2023-08-29 23:57:19,723 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-29 23:57:19,724 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-29 23:57:20,055 [main] INFO logger_file - User clicks on the Cart option
+2023-08-29 23:57:20,374 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-29 23:57:20,644 [main] INFO logger_file - User clicks on place your order button
+2023-08-29 23:57:20,646 [main] INFO logger_file - Successful message displayed
+2023-08-29 23:58:54,917 [main] INFO logger_file - User is on the retail website
+2023-08-29 23:58:55,143 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-29 23:58:55,561 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-29 23:58:55,802 [main] INFO logger_file - email was sent successfully
+2023-08-29 23:58:55,936 [main] INFO logger_file - password was sent successfully
+2023-08-29 23:58:56,317 [main] INFO logger_file - User clicks on the login button
+2023-08-29 23:58:57,128 [main] INFO logger_file - user logged in into account
+2023-08-29 23:58:57,439 [main] INFO logger_file - User clicks on the Orders section
+2023-08-29 23:58:57,738 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-29 23:58:58,065 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-08-30 00:00:07,133 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:00:07,427 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 00:00:08,013 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 00:00:08,289 [main] INFO logger_file - email was sent successfully
+2023-08-30 00:00:08,474 [main] INFO logger_file - password was sent successfully
+2023-08-30 00:00:08,862 [main] INFO logger_file - User clicks on the login button
+2023-08-30 00:00:10,219 [main] INFO logger_file - user logged in into account
+2023-08-30 00:00:10,680 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 00:00:10,861 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-08-30 00:00:11,181 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 00:00:11,774 [main] INFO logger_file - user clicked on item
+2023-08-30 00:02:55,214 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:02:55,513 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 00:02:55,896 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 00:02:56,220 [main] INFO logger_file - email was sent successfully
+2023-08-30 00:02:56,369 [main] INFO logger_file - password was sent successfully
+2023-08-30 00:02:56,754 [main] INFO logger_file - User clicks on the login button
+2023-08-30 00:02:57,486 [main] INFO logger_file - user logged in into account
+2023-08-30 00:02:57,975 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 00:02:58,065 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-08-30 00:02:58,333 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 00:02:58,919 [main] INFO logger_file - user clicked on item
+2023-08-30 00:02:59,306 [main] INFO logger_file - User selects quantity
+2023-08-30 00:02:59,644 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-30 00:02:59,645 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-30 00:02:59,942 [main] INFO logger_file - User clicks on the Cart option
+2023-08-30 00:03:00,260 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-30 00:03:00,524 [main] INFO logger_file - User clicks on place your order button
+2023-08-30 00:03:00,528 [main] INFO logger_file - Successful message displayed
+2023-08-30 00:05:03,285 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:05:03,598 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 00:05:03,996 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 00:05:04,270 [main] INFO logger_file - email was sent successfully
+2023-08-30 00:05:04,473 [main] INFO logger_file - password was sent successfully
+2023-08-30 00:05:04,843 [main] INFO logger_file - User clicks on the login button
+2023-08-30 00:05:05,612 [main] INFO logger_file - user logged in into account
+2023-08-30 00:05:05,893 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 00:05:06,188 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 00:05:06,506 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-08-30 00:11:01,286 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:11:01,498 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 00:11:02,288 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 00:11:02,494 [main] INFO logger_file - email was sent successfully
+2023-08-30 00:11:02,608 [main] INFO logger_file - password was sent successfully
+2023-08-30 00:11:03,008 [main] INFO logger_file - User clicks on the login button
+2023-08-30 00:11:03,750 [main] INFO logger_file - user logged in into account
+2023-08-30 00:11:04,083 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 00:11:04,429 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-08-30 00:15:32,931 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:15:33,081 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 00:15:33,552 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 00:15:33,826 [main] INFO logger_file - email was sent successfully
+2023-08-30 00:15:33,974 [main] INFO logger_file - password was sent successfully
+2023-08-30 00:15:34,411 [main] INFO logger_file - User clicks on the login button
+2023-08-30 00:15:35,150 [main] INFO logger_file - user logged in into account
+2023-08-30 00:15:47,202 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:15:47,644 [main] INFO logger_file - user clicked on all Department
+2023-08-30 00:15:48,085 [main] INFO logger_file - User clicked on Electronics sidebar option
+2023-08-30 00:15:48,215 [main] INFO logger_file - Department TV & Video is present
+2023-08-30 00:15:48,322 [main] INFO logger_file - Department Video Games is present
+2023-08-30 00:16:00,458 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:16:00,932 [main] INFO logger_file - user clicked on all Department
+2023-08-30 00:16:01,238 [main] INFO logger_file - User clicked on Computers sidebar option
+2023-08-30 00:16:01,305 [main] INFO logger_file - Department Accessories is present
+2023-08-30 00:16:01,476 [main] INFO logger_file - Department Networking is present
+2023-08-30 00:16:13,127 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:16:13,713 [main] INFO logger_file - user clicked on all Department
+2023-08-30 00:16:14,087 [main] INFO logger_file - User clicked on Smart Home sidebar option
+2023-08-30 00:16:14,314 [main] INFO logger_file - Department Smart Home Lightning is present
+2023-08-30 00:16:14,471 [main] INFO logger_file - Department Plugs and Outlets is present
+2023-08-30 00:16:25,962 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:16:26,357 [main] INFO logger_file - user clicked on all Department
+2023-08-30 00:16:26,799 [main] INFO logger_file - User clicked on Sports sidebar option
+2023-08-30 00:16:26,928 [main] INFO logger_file - Department Athletic Clothing is present
+2023-08-30 00:16:27,014 [main] INFO logger_file - Department Exercise & Fitness is present
+2023-08-30 00:16:38,010 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:16:38,388 [main] INFO logger_file - user clicked on all Department
+2023-08-30 00:16:50,536 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:16:50,659 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 00:16:51,169 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 00:16:51,388 [main] INFO logger_file - email was sent successfully
+2023-08-30 00:16:51,559 [main] INFO logger_file - password was sent successfully
+2023-08-30 00:16:51,957 [main] INFO logger_file - User clicks on the login button
+2023-08-30 00:16:52,713 [main] INFO logger_file - user logged in into account
+2023-08-30 00:16:53,144 [main] INFO logger_file - User clicks on the Account option
+2023-08-30 00:16:53,666 [main] INFO logger_file - User updates Name: Saliman and Phone: 9135614111
+2023-08-30 00:16:53,976 [main] INFO logger_file - User clicks on the Update button
+2023-08-30 00:16:54,027 [main] INFO logger_file - User profile information is updated
+2023-08-30 00:17:04,766 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:17:05,073 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 00:17:05,663 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 00:17:05,839 [main] INFO logger_file - email was sent successfully
+2023-08-30 00:17:05,935 [main] INFO logger_file - password was sent successfully
+2023-08-30 00:17:06,247 [main] INFO logger_file - User clicks on the login button
+2023-08-30 00:17:07,042 [main] INFO logger_file - user logged in into account
+2023-08-30 00:17:07,833 [main] INFO logger_file - User clicks on the Account option
+2023-08-30 00:17:08,234 [main] INFO logger_file - User clicks on the Account option
+2023-08-30 00:17:08,513 [main] INFO logger_file - User clicks on 'Add a payment method' link
+2023-08-30 00:17:09,290 [main] INFO logger_file - User fills the card information
+2023-08-30 00:17:09,650 [main] INFO logger_file - User clicks on 'Add your card' button
+2023-08-30 00:17:09,655 [main] INFO logger_file - Successful message displayed
+2023-08-30 00:17:20,227 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:17:20,308 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 00:17:20,862 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 00:17:21,108 [main] INFO logger_file - email was sent successfully
+2023-08-30 00:17:21,237 [main] INFO logger_file - password was sent successfully
+2023-08-30 00:17:21,624 [main] INFO logger_file - User clicks on the login button
+2023-08-30 00:17:22,247 [main] INFO logger_file - user logged in into account
+2023-08-30 00:17:22,779 [main] INFO logger_file - User clicks on the Account option
+2023-08-30 00:17:23,098 [main] INFO logger_file - User clicks on the Account option
+2023-08-30 00:17:23,662 [main] INFO logger_file - User clicks on Edit option of card section
+2023-08-30 00:17:24,245 [main] INFO logger_file - User edits card information
+2023-08-30 00:17:24,512 [main] INFO logger_file - User clicks on Update Your Card button
+2023-08-30 00:17:24,513 [main] INFO logger_file - Successful message displayed
+2023-08-30 00:17:35,141 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:17:35,396 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 00:17:35,782 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 00:17:36,000 [main] INFO logger_file - email was sent successfully
+2023-08-30 00:17:36,126 [main] INFO logger_file - password was sent successfully
+2023-08-30 00:17:36,525 [main] INFO logger_file - User clicks on the login button
+2023-08-30 00:17:37,152 [main] INFO logger_file - user logged in into account
+2023-08-30 00:17:37,741 [main] INFO logger_file - User clicks on the Account option
+2023-08-30 00:17:38,414 [main] INFO logger_file - User clicks on the remove option of card section
+2023-08-30 00:17:38,449 [main] INFO logger_file - Payment details have been removed
+2023-08-30 00:17:50,059 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:17:50,143 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 00:17:50,621 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 00:17:50,812 [main] INFO logger_file - email was sent successfully
+2023-08-30 00:17:50,937 [main] INFO logger_file - password was sent successfully
+2023-08-30 00:17:51,273 [main] INFO logger_file - User clicks on the login button
+2023-08-30 00:17:52,035 [main] INFO logger_file - user logged in into account
+2023-08-30 00:17:52,380 [main] INFO logger_file - User clicks on the Account option
+2023-08-30 00:17:52,660 [main] INFO logger_file - User clicks on the Account option
+2023-08-30 00:17:52,986 [main] INFO logger_file - User clicks on 'Add a payment method' link
+2023-08-30 00:17:53,573 [main] INFO logger_file - User fills the card information
+2023-08-30 00:17:53,856 [main] INFO logger_file - User clicks on 'Add your card' button
+2023-08-30 00:17:53,858 [main] INFO logger_file - Successful message displayed
+2023-08-30 00:18:07,345 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:18:07,470 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 00:18:07,916 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 00:18:08,098 [main] INFO logger_file - email was sent successfully
+2023-08-30 00:18:08,198 [main] INFO logger_file - password was sent successfully
+2023-08-30 00:18:08,514 [main] INFO logger_file - User clicks on the login button
+2023-08-30 00:18:09,471 [main] INFO logger_file - user logged in into account
+2023-08-30 00:18:09,966 [main] INFO logger_file - User clicks on the Account option
+2023-08-30 00:18:10,290 [main] INFO logger_file - User clicks on the Account option
+2023-08-30 00:18:10,586 [main] INFO logger_file - User clicks on the Add address option
+2023-08-30 00:18:11,383 [main] INFO logger_file - User fills new address form
+2023-08-30 00:18:11,844 [main] INFO logger_file - User clicks on the Add Your Address button
+2023-08-30 00:18:11,846 [main] INFO logger_file - Successful message displayed
+2023-08-30 00:18:23,114 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:18:23,316 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 00:18:23,695 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 00:18:23,926 [main] INFO logger_file - email was sent successfully
+2023-08-30 00:18:24,019 [main] INFO logger_file - password was sent successfully
+2023-08-30 00:18:24,310 [main] INFO logger_file - User clicks on the login button
+2023-08-30 00:18:25,037 [main] INFO logger_file - user logged in into account
+2023-08-30 00:18:25,658 [main] INFO logger_file - User clicks on the Account option
+2023-08-30 00:18:25,949 [main] INFO logger_file - User clicks on the Account option
+2023-08-30 00:18:26,271 [main] INFO logger_file - User clicks on edit address option
+2023-08-30 00:18:27,431 [main] INFO logger_file - User fills new address form
+2023-08-30 00:18:27,811 [main] INFO logger_file - User clicks on update Your Address button
+2023-08-30 00:18:27,813 [main] INFO logger_file - Successful message displayed
+2023-08-30 00:18:38,314 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:18:38,500 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 00:18:39,019 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 00:18:39,232 [main] INFO logger_file - email was sent successfully
+2023-08-30 00:18:39,341 [main] INFO logger_file - password was sent successfully
+2023-08-30 00:18:39,795 [main] INFO logger_file - User clicks on the login button
+2023-08-30 00:18:40,614 [main] INFO logger_file - user logged in into account
+2023-08-30 00:18:41,002 [main] INFO logger_file - User clicks on the Account option
+2023-08-30 00:18:41,477 [main] INFO logger_file - User clicks on the Account option
+2023-08-30 00:18:41,754 [main] INFO logger_file - User clicks on the remove option of Address section
+2023-08-30 00:18:41,811 [main] INFO logger_file - Address details are removed
+2023-08-30 00:18:52,190 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:18:52,468 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 00:18:52,956 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 00:18:53,207 [main] INFO logger_file - email was sent successfully
+2023-08-30 00:18:53,319 [main] INFO logger_file - password was sent successfully
+2023-08-30 00:18:53,647 [main] INFO logger_file - User clicks on the login button
+2023-08-30 00:18:54,271 [main] INFO logger_file - user logged in into account
+2023-08-30 00:18:54,582 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 00:18:54,671 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-08-30 00:18:54,926 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 00:18:55,517 [main] INFO logger_file - user clicked on item
+2023-08-30 00:18:55,846 [main] INFO logger_file - User selects quantity
+2023-08-30 00:18:56,146 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-30 00:18:56,147 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-30 00:18:56,463 [main] INFO logger_file - User clicks on the Cart option
+2023-08-30 00:18:56,756 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-30 00:18:57,016 [main] INFO logger_file - User clicks on place your order button
+2023-08-30 00:18:57,017 [main] INFO logger_file - Successful message displayed
+2023-08-30 00:19:08,490 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:19:08,710 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 00:19:09,073 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 00:19:09,286 [main] INFO logger_file - email was sent successfully
+2023-08-30 00:19:09,390 [main] INFO logger_file - password was sent successfully
+2023-08-30 00:19:09,738 [main] INFO logger_file - User clicks on the login button
+2023-08-30 00:19:10,353 [main] INFO logger_file - user logged in into account
+2023-08-30 00:19:10,774 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 00:19:11,032 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 00:19:11,341 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-08-30 00:19:21,767 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:19:22,059 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 00:19:22,565 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 00:19:22,781 [main] INFO logger_file - email was sent successfully
+2023-08-30 00:19:22,908 [main] INFO logger_file - password was sent successfully
+2023-08-30 00:19:23,235 [main] INFO logger_file - User clicks on the login button
+2023-08-30 00:19:23,858 [main] INFO logger_file - user logged in into account
+2023-08-30 00:19:24,187 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 00:19:24,470 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-08-30 00:19:24,738 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 00:19:25,362 [main] INFO logger_file - User successfully click on item
+2023-08-30 00:19:26,186 [main] INFO logger_file - User selects quantity
+2023-08-30 00:19:26,454 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-30 00:19:26,456 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-30 00:19:26,745 [main] INFO logger_file - User clicks on the Cart option
+2023-08-30 00:19:27,013 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-30 00:19:27,276 [main] INFO logger_file - User clicks on place your order button
+2023-08-30 00:19:27,277 [main] INFO logger_file - Successful message displayed
+2023-08-30 00:19:38,889 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:19:38,964 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 00:19:39,300 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 00:19:39,602 [main] INFO logger_file - email was sent successfully
+2023-08-30 00:19:39,781 [main] INFO logger_file - password was sent successfully
+2023-08-30 00:19:40,187 [main] INFO logger_file - User clicks on the login button
+2023-08-30 00:19:40,859 [main] INFO logger_file - user logged in into account
+2023-08-30 00:19:41,243 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 00:19:41,500 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 00:19:41,773 [main] INFO logger_file - User clicks on the Return Items button
+2023-08-30 00:19:52,335 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:19:52,523 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 00:19:52,890 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 00:19:53,161 [main] INFO logger_file - email was sent successfully
+2023-08-30 00:19:53,312 [main] INFO logger_file - password was sent successfully
+2023-08-30 00:19:53,621 [main] INFO logger_file - User clicks on the login button
+2023-08-30 00:19:54,244 [main] INFO logger_file - user logged in into account
+2023-08-30 00:19:54,561 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 00:19:54,982 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 00:19:55,270 [main] INFO logger_file - User clicks on the Review button
+2023-08-30 00:20:09,044 [main] INFO logger_file - User is on the retail website
+2023-08-30 00:20:09,196 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 00:20:09,704 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 00:20:10,260 [main] INFO logger_file - user clicked on create new account option
+2023-08-30 00:20:10,512 [main] INFO logger_file - Saliman Rahmani user name was entered successfully
+2023-08-30 00:20:10,724 [main] INFO logger_file - salimancapstone00069@gmail.comemail entered successfully
+2023-08-30 00:20:10,921 [main] INFO logger_file - password entered successfully
+2023-08-30 00:20:11,008 [main] INFO logger_file - Capstone123@ password entered successfully for confirmation
+2023-08-30 00:20:11,287 [main] INFO logger_file - Signup button was clicked succesfully
+2023-08-30 14:43:03,681 [main] INFO logger_file - User is on the retail website
+2023-08-30 14:43:04,684 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 14:43:05,045 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 14:43:05,304 [main] INFO logger_file - email was sent successfully
+2023-08-30 14:43:05,406 [main] INFO logger_file - password was sent successfully
+2023-08-30 14:43:05,757 [main] INFO logger_file - User clicks on the login button
+2023-08-30 14:43:06,403 [main] INFO logger_file - user logged in into account
+2023-08-30 14:43:06,868 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 14:43:06,992 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-08-30 14:43:07,285 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 14:43:07,935 [main] INFO logger_file - User successfully click on item
+2023-08-30 14:43:08,538 [main] INFO logger_file - User selects quantity
+2023-08-30 14:43:09,386 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-30 14:43:09,387 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-30 14:43:10,631 [main] INFO logger_file - User clicks on the Cart option
+2023-08-30 14:43:11,914 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-30 14:43:12,229 [main] INFO logger_file - User clicks on place your order button
+2023-08-30 14:43:12,230 [main] INFO logger_file - Successful message displayed
+2023-08-30 14:43:40,129 [main] INFO logger_file - User is on the retail website
+2023-08-30 14:43:40,309 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 14:43:40,736 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 14:43:41,011 [main] INFO logger_file - email was sent successfully
+2023-08-30 14:43:41,119 [main] INFO logger_file - password was sent successfully
+2023-08-30 14:43:41,509 [main] INFO logger_file - User clicks on the login button
+2023-08-30 14:43:41,918 [main] INFO logger_file - user logged in into account
+2023-08-30 14:43:42,278 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 14:43:43,189 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 14:43:43,940 [main] INFO logger_file - User clicks on the Return Items button
+2023-08-30 14:45:07,504 [main] INFO logger_file - User is on the retail website
+2023-08-30 14:45:08,055 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 14:45:12,947 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 14:45:14,794 [main] INFO logger_file - email was sent successfully
+2023-08-30 14:45:16,831 [main] INFO logger_file - password was sent successfully
+2023-08-30 14:45:17,590 [main] INFO logger_file - User clicks on the login button
+2023-08-30 14:45:18,596 [main] INFO logger_file - user logged in into account
+2023-08-30 14:45:20,288 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 14:45:20,508 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-08-30 14:45:22,142 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 14:45:24,064 [main] INFO logger_file - user clicked on item
+2023-08-30 14:45:31,756 [main] INFO logger_file - User selects quantity
+2023-08-30 14:45:34,615 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-30 14:45:34,621 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-30 14:45:35,732 [main] INFO logger_file - User clicks on the Cart option
+2023-08-30 14:45:36,281 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-30 14:45:36,662 [main] INFO logger_file - User clicks on place your order button
+2023-08-30 14:45:36,664 [main] INFO logger_file - Successful message displayed
+2023-08-30 14:54:06,924 [main] INFO logger_file - User is on the retail website
+2023-08-30 14:54:07,128 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 14:54:07,544 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 14:54:07,739 [main] INFO logger_file - email was sent successfully
+2023-08-30 14:54:07,882 [main] INFO logger_file - password was sent successfully
+2023-08-30 14:54:08,243 [main] INFO logger_file - User clicks on the login button
+2023-08-30 14:54:08,982 [main] INFO logger_file - user logged in into account
+2023-08-30 14:54:09,343 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 14:54:09,607 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 14:54:09,931 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-08-30 15:01:31,501 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:01:31,901 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:01:32,527 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:01:32,731 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:01:32,853 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:01:33,212 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:01:33,897 [main] INFO logger_file - user logged in into account
+2023-08-30 15:01:34,261 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 15:01:34,360 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-08-30 15:01:34,631 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 15:01:35,273 [main] INFO logger_file - user clicked on item
+2023-08-30 15:01:35,692 [main] INFO logger_file - User selects quantity
+2023-08-30 15:01:35,982 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-30 15:01:35,983 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-30 15:01:36,301 [main] INFO logger_file - User clicks on the Cart option
+2023-08-30 15:01:36,612 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-30 15:01:36,892 [main] INFO logger_file - User clicks on place your order button
+2023-08-30 15:01:36,908 [main] INFO logger_file - Successful message displayed
+2023-08-30 15:01:48,927 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:01:49,270 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:01:49,850 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:01:50,058 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:01:50,213 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:01:50,597 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:01:51,590 [main] INFO logger_file - user logged in into account
+2023-08-30 15:01:52,131 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:01:52,412 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:01:52,735 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-08-30 15:02:03,997 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:02:04,115 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:02:04,551 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:02:04,886 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:02:05,080 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:02:05,607 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:02:06,355 [main] INFO logger_file - user logged in into account
+2023-08-30 15:02:06,724 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 15:02:06,851 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-08-30 15:02:07,112 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 15:02:07,712 [main] INFO logger_file - User successfully click on item
+2023-08-30 15:02:08,105 [main] INFO logger_file - User selects quantity
+2023-08-30 15:02:08,495 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-30 15:02:08,497 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-30 15:02:08,830 [main] INFO logger_file - User clicks on the Cart option
+2023-08-30 15:02:09,108 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-30 15:02:09,381 [main] INFO logger_file - User clicks on place your order button
+2023-08-30 15:02:09,383 [main] INFO logger_file - Successful message displayed
+2023-08-30 15:02:20,875 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:02:20,963 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:02:21,415 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:02:21,738 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:02:21,879 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:02:22,216 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:02:22,863 [main] INFO logger_file - user logged in into account
+2023-08-30 15:02:23,209 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:02:23,484 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:02:23,812 [main] INFO logger_file - User clicks on the Return Items button
+2023-08-30 15:02:35,138 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:02:35,227 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:02:35,822 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:02:36,074 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:02:36,254 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:02:36,572 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:02:37,198 [main] INFO logger_file - user logged in into account
+2023-08-30 15:02:37,582 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:02:37,908 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:02:38,211 [main] INFO logger_file - User clicks on the Review button
+2023-08-30 15:03:41,963 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:03:42,110 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:03:42,525 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:03:42,732 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:03:42,880 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:03:43,259 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:03:43,973 [main] INFO logger_file - user logged in into account
+2023-08-30 15:03:44,390 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 15:03:44,495 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-08-30 15:03:44,783 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 15:03:45,409 [main] INFO logger_file - user clicked on item
+2023-08-30 15:03:45,735 [main] INFO logger_file - User selects quantity
+2023-08-30 15:03:46,043 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-30 15:03:46,051 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-30 15:03:46,348 [main] INFO logger_file - User clicks on the Cart option
+2023-08-30 15:03:46,662 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-30 15:03:46,927 [main] INFO logger_file - User clicks on place your order button
+2023-08-30 15:03:46,928 [main] INFO logger_file - Successful message displayed
+2023-08-30 15:03:58,739 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:03:58,835 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:03:59,226 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:03:59,452 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:03:59,617 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:03:59,984 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:04:00,702 [main] INFO logger_file - user logged in into account
+2023-08-30 15:04:01,006 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:04:01,286 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:04:01,600 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-08-30 15:04:12,232 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:04:12,384 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:04:12,946 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:04:13,335 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:04:13,524 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:04:13,982 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:04:14,690 [main] INFO logger_file - user logged in into account
+2023-08-30 15:04:15,002 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 15:04:15,123 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-08-30 15:04:15,379 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 15:04:15,957 [main] INFO logger_file - User successfully click on item
+2023-08-30 15:04:16,280 [main] INFO logger_file - User selects quantity
+2023-08-30 15:04:16,618 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-30 15:04:16,621 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-30 15:04:16,922 [main] INFO logger_file - User clicks on the Cart option
+2023-08-30 15:04:17,228 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-30 15:04:17,508 [main] INFO logger_file - User clicks on place your order button
+2023-08-30 15:04:17,509 [main] INFO logger_file - Successful message displayed
+2023-08-30 15:04:28,054 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:04:28,151 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:04:28,658 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:04:28,946 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:04:29,093 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:04:29,496 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:04:30,234 [main] INFO logger_file - user logged in into account
+2023-08-30 15:04:30,613 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:04:31,402 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:04:31,692 [main] INFO logger_file - User clicks on the Return Items button
+2023-08-30 15:04:42,168 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:04:42,250 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:04:42,633 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:04:42,940 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:04:43,112 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:04:43,487 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:04:44,120 [main] INFO logger_file - user logged in into account
+2023-08-30 15:04:44,536 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:04:44,888 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:04:45,168 [main] INFO logger_file - User clicks on the Review button
+2023-08-30 15:06:13,198 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:06:13,563 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:06:14,052 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:06:14,359 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:06:14,544 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:06:14,919 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:06:15,663 [main] INFO logger_file - user logged in into account
+2023-08-30 15:06:16,021 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:06:16,290 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:06:16,583 [main] INFO logger_file - User clicks on the Review button
+2023-08-30 15:16:37,423 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:16:37,628 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:16:38,295 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:16:38,508 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:16:38,659 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:16:39,051 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:16:39,740 [main] INFO logger_file - user logged in into account
+2023-08-30 15:16:40,086 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:16:40,364 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:17:27,066 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:17:27,225 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:17:27,724 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:17:28,021 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:17:28,154 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:17:28,546 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:17:29,265 [main] INFO logger_file - user logged in into account
+2023-08-30 15:17:29,584 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:17:29,898 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:17:30,176 [main] INFO logger_file - User clicks on the Review button
+2023-08-30 15:18:09,934 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:18:10,028 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:18:10,510 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:18:10,792 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:18:10,943 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:18:11,318 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:18:12,029 [main] INFO logger_file - user logged in into account
+2023-08-30 15:18:12,355 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 15:18:12,457 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-08-30 15:18:12,722 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 15:18:13,339 [main] INFO logger_file - user clicked on item
+2023-08-30 15:18:13,698 [main] INFO logger_file - User selects quantity
+2023-08-30 15:18:13,998 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-30 15:18:14,002 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-30 15:18:14,283 [main] INFO logger_file - User clicks on the Cart option
+2023-08-30 15:18:14,644 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-30 15:18:14,948 [main] INFO logger_file - User clicks on place your order button
+2023-08-30 15:18:14,949 [main] INFO logger_file - Successful message displayed
+2023-08-30 15:18:25,296 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:18:25,501 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:18:25,972 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:18:26,172 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:18:26,329 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:18:26,694 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:18:27,822 [main] INFO logger_file - user logged in into account
+2023-08-30 15:18:28,346 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:18:28,615 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:18:28,937 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-08-30 15:18:39,610 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:18:39,720 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:18:40,123 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:18:40,384 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:18:40,516 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:18:40,827 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:18:41,564 [main] INFO logger_file - user logged in into account
+2023-08-30 15:18:41,879 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 15:18:42,000 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-08-30 15:18:42,272 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 15:18:42,913 [main] INFO logger_file - User successfully click on item
+2023-08-30 15:18:43,241 [main] INFO logger_file - User selects quantity
+2023-08-30 15:18:43,572 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-30 15:18:43,573 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-30 15:18:43,863 [main] INFO logger_file - User clicks on the Cart option
+2023-08-30 15:18:44,146 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-30 15:18:44,425 [main] INFO logger_file - User clicks on place your order button
+2023-08-30 15:18:44,429 [main] INFO logger_file - Successful message displayed
+2023-08-30 15:18:54,719 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:18:54,813 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:18:55,308 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:18:55,730 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:18:55,898 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:18:56,233 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:18:56,870 [main] INFO logger_file - user logged in into account
+2023-08-30 15:18:57,149 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:18:57,987 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:18:58,299 [main] INFO logger_file - User clicks on the Return Items button
+2023-08-30 15:19:08,900 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:19:09,221 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:19:09,771 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:19:09,972 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:19:10,083 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:19:10,475 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:19:11,404 [main] INFO logger_file - user logged in into account
+2023-08-30 15:19:11,888 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:19:12,145 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:19:12,442 [main] INFO logger_file - User clicks on the Review button
+2023-08-30 15:20:38,588 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:20:38,751 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:20:39,215 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:20:39,438 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:20:39,573 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:20:39,920 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:20:40,626 [main] INFO logger_file - user logged in into account
+2023-08-30 15:20:41,016 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:20:41,305 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:20:41,598 [main] INFO logger_file - User clicks on the Review button
+2023-08-30 15:21:45,982 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:21:46,182 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:21:46,637 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:21:46,986 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:21:47,133 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:21:47,501 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:21:48,222 [main] INFO logger_file - user logged in into account
+2023-08-30 15:21:48,614 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:21:48,891 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:21:49,166 [main] INFO logger_file - User clicks on the Review button
+2023-08-30 15:23:13,397 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:23:13,715 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:23:14,787 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:23:15,298 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:23:15,470 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:23:15,929 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:23:16,718 [main] INFO logger_file - user logged in into account
+2023-08-30 15:23:17,139 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:23:17,436 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:23:17,735 [main] INFO logger_file - User clicks on the Review button
+2023-08-30 15:25:32,157 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:25:32,361 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:25:32,817 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:25:33,078 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:25:33,222 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:25:33,578 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:25:34,333 [main] INFO logger_file - user logged in into account
+2023-08-30 15:25:34,648 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:25:34,928 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:25:35,211 [main] INFO logger_file - User clicks on the Review button
+2023-08-30 15:25:35,902 [main] INFO logger_file - User writes Review headline: headline value and Review text: review text
+2023-08-30 15:25:36,189 [main] INFO logger_file - User clicks on the Add your Review button
+2023-08-30 15:25:36,228 [main] INFO logger_file - Your review was added successfully: 
+2023-08-30 15:30:41,261 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:30:41,393 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:30:41,829 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:30:42,131 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:30:42,304 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:30:42,700 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:30:43,413 [main] INFO logger_file - user logged in into account
+2023-08-30 15:30:43,808 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:30:44,072 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:30:44,351 [main] INFO logger_file - User clicks on the Review button
+2023-08-30 15:30:44,844 [main] INFO logger_file - User writes Review headline: headline value and Review text: review text
+2023-08-30 15:30:45,135 [main] INFO logger_file - User clicks on the Add your Review button
+2023-08-30 15:30:45,173 [main] INFO logger_file - Your review was added successfully: 
+2023-08-30 15:31:42,384 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:31:42,664 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:31:43,287 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:31:43,485 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:31:43,597 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:31:43,967 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:31:44,641 [main] INFO logger_file - user logged in into account
+2023-08-30 15:31:44,987 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 15:31:45,078 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-08-30 15:31:45,374 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 15:31:45,979 [main] INFO logger_file - user clicked on item
+2023-08-30 15:31:46,326 [main] INFO logger_file - User selects quantity
+2023-08-30 15:31:46,654 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-30 15:31:46,658 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-30 15:31:46,964 [main] INFO logger_file - User clicks on the Cart option
+2023-08-30 15:31:47,298 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-30 15:31:47,583 [main] INFO logger_file - User clicks on place your order button
+2023-08-30 15:31:47,586 [main] INFO logger_file - Successful message displayed
+2023-08-30 15:33:25,592 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:33:25,786 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:33:26,191 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:33:26,471 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:33:26,635 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:33:27,088 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:33:27,821 [main] INFO logger_file - user logged in into account
+2023-08-30 15:36:37,145 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:36:37,473 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:36:38,138 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:36:38,304 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:36:38,420 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:36:38,770 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:36:39,488 [main] INFO logger_file - user logged in into account
+2023-08-30 15:37:50,786 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:37:51,331 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:37:52,267 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:37:52,556 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:37:52,722 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:37:53,162 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:37:54,159 [main] INFO logger_file - user logged in into account
+2023-08-30 15:37:54,613 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 15:37:54,744 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-08-30 15:37:55,208 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 15:37:55,978 [main] INFO logger_file - user clicked on item
+2023-08-30 15:37:56,945 [main] INFO logger_file - User selects quantity
+2023-08-30 15:37:57,250 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-30 15:37:57,256 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-30 15:37:57,548 [main] INFO logger_file - User clicks on the Cart option
+2023-08-30 15:37:57,883 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-30 15:37:58,175 [main] INFO logger_file - User clicks on place your order button
+2023-08-30 15:37:58,179 [main] INFO logger_file - Successful message displayed
+2023-08-30 15:40:01,930 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:40:02,562 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:40:07,374 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:40:11,881 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:40:12,375 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:40:14,514 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:40:15,322 [main] INFO logger_file - user logged in into account
+2023-08-30 15:40:16,169 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 15:40:17,286 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-08-30 15:40:17,703 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 15:40:18,606 [main] INFO logger_file - user clicked on item
+2023-08-30 15:40:20,538 [main] INFO logger_file - User selects quantity
+2023-08-30 15:40:20,973 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-30 15:40:20,975 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-30 15:40:21,721 [main] INFO logger_file - User clicks on the Cart option
+2023-08-30 15:40:22,264 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-30 15:40:22,621 [main] INFO logger_file - User clicks on place your order button
+2023-08-30 15:40:22,622 [main] INFO logger_file - Successful message displayed
+2023-08-30 15:40:42,696 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:40:43,188 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:40:43,743 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:40:43,984 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:40:44,116 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:40:44,482 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:40:45,173 [main] INFO logger_file - user logged in into account
+2023-08-30 15:40:45,488 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 15:40:45,604 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-08-30 15:40:45,931 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 15:40:46,512 [main] INFO logger_file - User successfully click on item
+2023-08-30 15:40:46,915 [main] INFO logger_file - User selects quantity
+2023-08-30 15:40:47,236 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-30 15:40:47,244 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-30 15:40:47,528 [main] INFO logger_file - User clicks on the Cart option
+2023-08-30 15:40:47,841 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-30 15:40:48,102 [main] INFO logger_file - User clicks on place your order button
+2023-08-30 15:40:48,124 [main] INFO logger_file - Successful message displayed
+2023-08-30 15:41:00,324 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:41:00,412 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:41:00,776 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:41:01,061 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:41:01,288 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:41:01,674 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:41:02,408 [main] INFO logger_file - user logged in into account
+2023-08-30 15:41:02,739 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:41:03,545 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:41:03,929 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-08-30 15:41:04,492 [main] INFO logger_file - User selects the cancellation reason: Bought wrong item
+2023-08-30 15:41:15,153 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:41:15,372 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:41:15,887 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:41:16,247 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:41:16,530 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:41:16,848 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:41:17,537 [main] INFO logger_file - user logged in into account
+2023-08-30 15:41:17,882 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:41:18,144 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:41:58,665 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:41:58,829 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:41:59,348 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:41:59,531 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:41:59,632 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:42:00,024 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:42:01,173 [main] INFO logger_file - user logged in into account
+2023-08-30 15:42:01,644 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:42:01,897 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:42:02,177 [main] INFO logger_file - User clicks on the Review button
+2023-08-30 15:42:02,586 [main] INFO logger_file - User writes Review headline: headline value and Review text: review text
+2023-08-30 15:42:02,977 [main] INFO logger_file - User clicks on the Add your Review button
+2023-08-30 15:42:02,991 [main] INFO logger_file - Your review was added successfully: 
+2023-08-30 15:51:38,633 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:51:38,879 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:51:39,374 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:51:39,609 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:51:39,746 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:51:40,094 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:51:40,764 [main] INFO logger_file - user logged in into account
+2023-08-30 15:51:41,148 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 15:51:41,252 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-08-30 15:51:41,523 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 15:51:42,097 [main] INFO logger_file - user clicked on item
+2023-08-30 15:51:42,439 [main] INFO logger_file - User selects quantity
+2023-08-30 15:51:42,770 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-30 15:51:42,771 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-30 15:51:43,070 [main] INFO logger_file - User clicks on the Cart option
+2023-08-30 15:51:43,379 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-30 15:51:43,672 [main] INFO logger_file - User clicks on place your order button
+2023-08-30 15:51:43,673 [main] INFO logger_file - Successful message displayed
+2023-08-30 15:56:08,925 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:56:09,733 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:56:12,652 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:56:14,008 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:56:14,741 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:56:16,349 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:56:17,426 [main] INFO logger_file - user logged in into account
+2023-08-30 15:56:20,919 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 15:56:21,299 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-08-30 15:56:23,432 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 15:56:25,820 [main] INFO logger_file - user clicked on item
+2023-08-30 15:56:28,737 [main] INFO logger_file - User selects quantity
+2023-08-30 15:56:29,361 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-30 15:56:29,363 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-30 15:56:30,276 [main] INFO logger_file - User clicks on the Cart option
+2023-08-30 15:56:30,799 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-30 15:56:31,343 [main] INFO logger_file - User clicks on place your order button
+2023-08-30 15:56:31,346 [main] INFO logger_file - Successful message displayed
+2023-08-30 15:56:57,406 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:56:57,524 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:56:58,186 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:56:58,593 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:56:58,926 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:56:59,374 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:57:00,229 [main] INFO logger_file - user logged in into account
+2023-08-30 15:57:00,614 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 15:57:00,863 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-08-30 15:57:01,191 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 15:57:02,016 [main] INFO logger_file - User successfully click on item
+2023-08-30 15:57:02,530 [main] INFO logger_file - User selects quantity
+2023-08-30 15:57:02,892 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-30 15:57:02,893 [main] INFO logger_file - 5was displayed in the cart
+2023-08-30 15:57:03,316 [main] INFO logger_file - User clicks on the Cart option
+2023-08-30 15:57:03,657 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-30 15:57:03,959 [main] INFO logger_file - User clicks on place your order button
+2023-08-30 15:57:20,971 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:57:21,439 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:57:22,264 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:57:22,696 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:57:22,983 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:57:23,400 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:57:24,128 [main] INFO logger_file - user logged in into account
+2023-08-30 15:57:24,559 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:57:25,583 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:57:26,025 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-08-30 15:57:26,695 [main] INFO logger_file - User selects the cancellation reason: Bought wrong item
+2023-08-30 15:57:40,973 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:57:41,180 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:57:41,745 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:57:42,167 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:57:42,410 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:57:42,823 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:57:43,703 [main] INFO logger_file - user logged in into account
+2023-08-30 15:57:44,076 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:57:44,990 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:58:21,434 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:58:21,698 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:58:22,176 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:58:22,441 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:58:22,645 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:58:23,000 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:58:24,117 [main] INFO logger_file - user logged in into account
+2023-08-30 15:58:24,444 [main] INFO logger_file - User clicks on the Orders section
+2023-08-30 15:58:25,231 [main] INFO logger_file - User clicks on the first order in the list
+2023-08-30 15:58:25,525 [main] INFO logger_file - User clicks on the Review button
+2023-08-30 15:58:26,251 [main] INFO logger_file - User writes Review headline: headline value and Review text: review text
+2023-08-30 15:58:26,742 [main] INFO logger_file - User clicks on the Add your Review button
+2023-08-30 15:58:26,791 [main] INFO logger_file - Your review was added successfully: 
+2023-08-30 15:59:34,608 [main] INFO logger_file - User is on the retail website
+2023-08-30 15:59:34,866 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 15:59:35,536 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 15:59:35,792 [main] INFO logger_file - email was sent successfully
+2023-08-30 15:59:35,944 [main] INFO logger_file - password was sent successfully
+2023-08-30 15:59:36,295 [main] INFO logger_file - User clicks on the login button
+2023-08-30 15:59:37,004 [main] INFO logger_file - user logged in into account
+2023-08-30 15:59:37,339 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 15:59:37,435 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-08-30 15:59:37,722 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 15:59:38,354 [main] INFO logger_file - user clicked on item
+2023-08-30 15:59:38,737 [main] INFO logger_file - User selects quantity
+2023-08-30 15:59:39,045 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-08-30 15:59:39,047 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-08-30 15:59:39,413 [main] INFO logger_file - User clicks on the Cart option
+2023-08-30 15:59:40,308 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-08-30 15:59:40,606 [main] INFO logger_file - User clicks on place your order button
+2023-08-30 15:59:40,607 [main] INFO logger_file - Successful message displayed
+2023-08-30 16:00:56,110 [main] INFO logger_file - User is on the retail website
+2023-08-30 16:00:56,269 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 16:00:56,694 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 16:00:57,167 [main] INFO logger_file - email was sent successfully
+2023-08-30 16:00:57,453 [main] INFO logger_file - password was sent successfully
+2023-08-30 16:00:57,875 [main] INFO logger_file - User clicks on the login button
+2023-08-30 16:00:58,678 [main] INFO logger_file - user logged in into account
+2023-08-30 16:00:59,021 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 16:00:59,209 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-08-30 16:00:59,500 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 16:37:37,872 [main] INFO logger_file - User is on the retail website
+2023-08-30 16:37:38,442 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 16:37:40,596 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 16:37:41,925 [main] INFO logger_file - email was sent successfully
+2023-08-30 16:37:42,173 [main] INFO logger_file - password was sent successfully
+2023-08-30 16:37:42,987 [main] INFO logger_file - User clicks on the login button
+2023-08-30 16:37:43,742 [main] INFO logger_file - user logged in into account
+2023-08-30 16:37:44,296 [main] INFO logger_file - User change caegory to allDepartments
+2023-08-30 16:37:44,416 [main] INFO logger_file -  kasa outdoor smart plugitem name was entered successfully
+2023-08-30 16:37:44,702 [main] INFO logger_file - User clicks on the Search icon
+2023-08-30 16:52:44,038 [main] INFO logger_file - User is on the retail website
+2023-08-30 16:52:44,220 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 16:52:44,869 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 16:52:45,160 [main] INFO logger_file - email was sent successfully
+2023-08-30 16:52:45,373 [main] INFO logger_file - password was sent successfully
+2023-08-30 16:53:47,603 [main] INFO logger_file - User is on the retail website
+2023-08-30 16:53:47,759 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 16:53:48,324 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 16:53:48,662 [main] INFO logger_file - email was sent successfully
+2023-08-30 16:53:48,888 [main] INFO logger_file - password was sent successfully
+2023-08-30 16:54:33,465 [main] INFO logger_file - User is on the retail website
+2023-08-30 16:54:33,790 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 16:54:34,281 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 16:54:34,587 [main] INFO logger_file - email was sent successfully
+2023-08-30 16:54:34,861 [main] INFO logger_file - password was sent successfully
+2023-08-30 16:57:54,203 [main] INFO logger_file - User is on the retail website
+2023-08-30 16:57:54,338 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 16:57:54,794 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 16:57:55,114 [main] INFO logger_file - email was sent successfully
+2023-08-30 16:57:55,376 [main] INFO logger_file - password was sent successfully
+2023-08-30 16:59:44,563 [main] INFO logger_file - User is on the retail website
+2023-08-30 16:59:44,923 [main] INFO logger_file - User is verified to be logged into account page
+2023-08-30 16:59:45,536 [main] INFO logger_file - User clicked on signin button successfully
+2023-08-30 16:59:45,895 [main] INFO logger_file - email was sent successfully
+2023-08-30 16:59:46,112 [main] INFO logger_file - password was sent successfully

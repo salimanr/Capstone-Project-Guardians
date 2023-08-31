@@ -5,6 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 
+import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import tek.sdet.framework.pages.POMFactory;
@@ -14,94 +15,98 @@ public class RetailOrderSteps extends CommonUtilities {
 
 	POMFactory factory = new POMFactory();
 
-	@When("User click on login button")
-	public void userClickOnLoginButton() {
-		click(factory.signinPage().loginBttn);
-		logger.info("User clicks on the login button");
-	}
-
-	@When("User should be logged in into Account")
-	public void userShouldBeLoggedInIntoAccount() {
-		WebElement accountlink = factory.homePage().accountOption;
-		waitTillPresence(factory.homePage().accountOption);
-		logger.info("User is logged in into the Account");
-	}
-
-	@When("User change the category to {string}")
+	/*
+	 * @When("User click on login button") public void userClickOnLoginButton() {
+	 * click(factory.signinPage().loginBttn);
+	 * logger.info("User clicks on the login button"); }
+	 * 
+	 * @When("User should be logged in into Account") public void
+	 * userShouldBeLoggedInIntoAccount() { WebElement accountlink =
+	 * factory.homePage().accountOption;
+	 * waitTillPresence(factory.homePage().accountOption);
+	 * logger.info("User is logged in into the Account"); }
+	 */
+	@And("User change the category to {string}")
 	public void userChangeTheCategoryTo(String allDepartments) {
 		selectByVisibleText(factory.orderPage().allDepartments, allDepartments);
 		logger.info("User change caegory to allDepartments");
 	}
 
-	@When("User click on Search icon")
-	public void userClickOnSearchIcon() {
-		click(factory.orderPage().searchIcon);
-		logger.info("User clicks on the Search icon");
-	}
-
-	@When("User search for an item {string}")
+	@And("User search for an item {string}")
 	public void userSearchForAnItem(String kasaOutdoorSmartPlug) {
 		WebElement searchInput = factory.orderPage().searchIcon;
 		sendText(factory.orderPage().searchIcon, kasaOutdoorSmartPlug);
 		logger.info(kasaOutdoorSmartPlug + "item name was entered successfully");
 	}
 
-	@When("User click on item")
+	@And("User click on Search icon")
+	public void userClickOnSearchIcon() {
+		click(factory.orderPage().searchIcon);
+		logger.info("User clicks on the Search icon");
+	}
+
+	@And("User click on item")
 	public void userClickOnItem() {
 		click(factory.orderPage().searchBttn);
 		click(factory.orderPage().kasaOutdoorSmartPlugItem);
 		logger.info("User successfully click on item");
 	}
 
-	@When("User select quantity ‘{int}’")
+	@And("User select quantity ‘{int}’")
 	public void userSelectQuantities(Integer int1) {
 		click(factory.orderPage().quantityInput);
 		logger.info("User selects quantity: " + "2");
 
 	}
 
-	@When("User click add to Cart button")
+	@And("User click add to Cart button")
 	public void userClickAddToCartButton() {
 		click(factory.orderPage().addToCartButton);
 		logger.info("User clicks on the Add to Cart button");
 	}
 
-	@Then("the cart icon quantity should change to ‘{int}’")
+	@And("the cart icon quantity should change to ‘{int}’")
 	public void theCartIconQuantityShouldChangeTo(int int1) {
-		// WebElement cartIcon = factory.orderPage().cartIcon;
-		// waitTillPresence(cartIcon);
-		// String cartQuantity = cartIcon.getText();
-		// Assert.assertEquals(cartQuantity, String.valueOf(int1));
-
-		// Assert.assertEquals(int1, factory.orderPage().cartIcon.getText());
-		logger.info(int1 + "was displayed in the cart");
-		// logger.info("The cart icon quantity is verified to be: " + cartQuantity);
+		/*
+		 * WebElement cartIcon = factory.orderPage().cartIcon;
+		 * waitTillPresence(cartIcon); String cartQuantity = cartIcon.getText();
+		 * Assert.assertEquals(cartQuantity, String.valueOf(int1));
+		 * 
+		 * Assert.assertEquals(int1, factory.orderPage().cartIcon.getText());
+		 * logger.info(int1 + "was displayed in the cart");
+		 * logger.info("The cart icon quantity is verified to be: " + cartQuantity);
+		 */
 	}
 
-	@When("User change the category to {string} Apex Legends '")
-	public void userChangeTheCategoryToApexLegends(String string) {
-		click(factory.orderPage().categoryDropdown);
-		WebElement categoryOption = factory.orderPage().categoryElement;
-		categoryOption.click();
-	}
+//	@When("User change the category to {string} Apex Legends '")
+//	public void userChangeTheCategoryToApexLegends(String string) {
+//		click(factory.orderPage().categoryDropdown);
+//		WebElement categoryOption = factory.orderPage().categoryElement;
+//		categoryOption.click();
+//	}
 
-	@Then("User click on Cart option")
+	@And("User click on Cart option")
 	public void userClickOnCartOption() {
 		click(factory.orderPage().cartIcon);
 		logger.info("User clicks on the Cart option");
 	}
 
-	@Then("User click on Proceed to Checkout button")
+	@And("User click on Proceed to Checkout button")
 	public void userClickOnProceedToCheckoutButton() {
 		click(factory.orderPage().clickProceedToCheckoutButton);
 		logger.info("User clicks on the proceed to checkout button");
 
 	}
 
-	@Then("User click on Place Your Order")
+	@And("User click on Place Your Order")
 	public void userClickOnPlaceYourOrder() {
 		click(factory.orderPage().getPlaceYourOrderButton);
 		logger.info("User clicks on place your order button");
+	}
+
+	@Then("a message should be displayed {string}")
+	public void aMessageShouldBeDisplayed(String string) {
+		logger.info("Successful message displayed");
 
 	}
 
@@ -142,12 +147,6 @@ public class RetailOrderSteps extends CommonUtilities {
 	public void theCartIconQuantityApexLegendsShouldChangeTo(String string) {
 		Assert.assertEquals(string, factory.orderPage().cartQuantity.getText());
 		logger.info(string + "was validated");
-	}
-
-	@Then("a message should be displayed {string}")
-	public void aMessageShouldBeDisplayed(String string) {
-		logger.info("Successful message displayed");
-
 	}
 
 	@Then("a message should be displayed ‘Order Placed, Thanks’")

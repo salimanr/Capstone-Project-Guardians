@@ -12,5 +12,5 @@ Feature: Retail SignIn Page
     Then User see his profile page
 
     Examples: 
-      | name         | email                  | password         | confirmpassword  |
-      | Saliman Rahmani | salimancapstone099@gmail.com | Capstone123@ | Capstone123@ |
+      | name            | email                         | password     | confirmpassword |
+      | Saliman Rahmani | salimancapstone00069@gmail.com | Capstone123@ | Capstone123@    |
