@@ -1,4 +1,4 @@
-@Regression
+@Smoke
 Feature: Retail SignIn Page
 
   #@Signin
@@ -13,4 +13,4 @@ Feature: Retail SignIn Page
 
     Examples: 
       | name         | email                  | password         | confirmpassword  |
-      | Saliman Rahmani | salimancapstone099@gmail.com | Capstone123@ | Capstone123@ |
+      | Saliman Rahmani | salimancapstone8899@gmail.com | Capstone123@ | Capstone123@ |

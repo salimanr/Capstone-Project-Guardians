@@ -1,4 +1,4 @@
-@Regression
+@Smoke
 Feature: RetailHomeSteps
 
  Background: 
@@ -12,7 +12,7 @@ Feature: RetailHomeSteps
     And User click on login button
     Then user should be logged into Account
 
-    @Home2
+   #@Home2
   Scenario: Verify department sidebar options
     When User click on All section
     And User on '<department>'

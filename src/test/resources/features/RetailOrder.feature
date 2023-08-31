@@ -1,4 +1,4 @@
-@Regression
+@Smoke
 Feature: Retail Order Page
 
   Background: 
@@ -9,7 +9,7 @@ Feature: Retail Order Page
     And User click on login button
     Then user should be logged into Account
 
-  #@Ordertwo
+  @Ordertwo
   Scenario: Verify User can place an order with Shipping address and payment Method on file​​​​​​​
     And User change the category to 'Electronics'
     And User search for an item 'Apex Legends'
@@ -23,7 +23,7 @@ Feature: Retail Order Page
     And User click on Place Your Order
     Then a message should be displayed 'Order Placed, Thanks'
 
-  #@Orderthree
+  @Orderthree
   Scenario: Verify User can cancel the order
     And User click on Orders section
     And User click on first order in list
@@ -32,7 +32,7 @@ Feature: Retail Order Page
     #And User click on Cancel Order button
     Then a cancelation message should be displayed ‘Your Order Has Been Cancelled’
 
-  #@Order
+  @Orderfour
   Scenario: Verify User can add an item to cart
     And User change the category to 'Smart Home'
     And User search for an item 'kasa outdoor smart plug'
@@ -46,7 +46,7 @@ Feature: Retail Order Page
     And User click on Place Your Order
     Then a message should be displayed 'Order Placed, Thanks'
 
-  #@Orderfour
+  @Orderfive
   Scenario: Verify User can Return the order
     And User click on Orders section
     And User click on first order in list
@@ -56,7 +56,7 @@ Feature: Retail Order Page
     And User click on Return Order button
     Then a cancelation message should be displayed ‘Return was successful’
 
-  #@Orderfive
+  @Ordersix
   Scenario: Verify User can write a review on order placed
     And User click on Orders section
     And User click on first order in list
